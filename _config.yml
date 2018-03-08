@@ -126,7 +126,8 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - docs/_pages
+  - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -251,7 +252,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: _posts
       type: posts
     values:
       layout: single
@@ -262,7 +263,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: _path
       type: pages
     values:
       layout: single
