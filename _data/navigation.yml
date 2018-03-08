@@ -2,7 +2,7 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
+   - title: "About Me"
      url: https://pateskinasy.github.io/about/
    - title: "Archives"
      url: https://pateskinasy.github.io/posts/
