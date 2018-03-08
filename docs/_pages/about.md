@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About Pat Eskinasy"
 layout: splash
 header:
   overlay_image: /assets/images/humanprocessing.jpg
@@ -9,6 +9,7 @@ header:
   #cta_url: "https://unsplash.com"
   overlay_filter: 0.25
 show_overlay_excerpt: true
+show_overlay_title: true
 excerpt: "About Me"
 ---
 
