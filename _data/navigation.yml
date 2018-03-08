@@ -3,11 +3,11 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About Me"
-     url: https://pateskinasy.github.io/about/
+     url: /about/
    - title: "Archives"
-     url: https://pateskinasy.github.io/posts/
+     url: /posts/
    - title: "Contact"
-     url: https://pateskinasy.github.io/contact/
+     url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
