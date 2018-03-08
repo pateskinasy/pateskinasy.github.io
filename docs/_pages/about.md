@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.25
 excerpt: "About Me"
 ---
+
 I'm a neek living in London, UK.
 
 Busy building a business and trying as much as possible to enjoy the journey.
