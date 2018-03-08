@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Pat Eskinasy"
+title: "About Me"
 layout: splash
 header:
   overlay_image: /assets/images/humanprocessing.jpg
