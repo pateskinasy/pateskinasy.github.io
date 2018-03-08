@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+title: About Me
 layout: splash
 header:
   overlay_image: /assets/images/humanprocessing.jpg
