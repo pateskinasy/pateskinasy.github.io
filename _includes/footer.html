@@ -9,6 +9,9 @@
     {% if site.facebook.username %}
       <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
+    {% if site.author.medium %}
+      <li><a href="https://medium.com/@{{ site.author.medium }}"><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a></li>
+    {% endif %}
     {% if site.author.github %}
       <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
@@ -17,9 +20,6 @@
     {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.author.medium %}
-      <li><a href="https://medium.com/@{{ site.author.medium }}"><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a></li>
     {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
