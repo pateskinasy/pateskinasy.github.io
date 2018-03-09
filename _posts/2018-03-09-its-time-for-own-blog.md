@@ -5,7 +5,7 @@ date: 2018-03-09
 excerpt: "Own blog, writing habit next."
 categories: [personal]
 tags: [personal]
-#author_profile: true
+author_profile: true
 comments: true
 share: true
 featured: false
