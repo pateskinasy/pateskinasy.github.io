@@ -16,8 +16,8 @@ header:
 featured: false
 ---
 
-It is time for my own blog. So here comes a Hello world
+It is time for my own blog, so here comes a 'Hello world'.
 
-## Next is to feed the habit
+# Next: Feed the habit
 
-Probably the biggest challenge next is to feed the writing habit.
+Probably the next biggest challenge will be to feed the writing habit.
