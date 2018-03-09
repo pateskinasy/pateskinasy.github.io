@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.25
 show_overlay_excerpt: true
 show_overlay_title: true
-excerpt: "About Me"
+#excerpt: "About Me"
 ---
 
 I'm a neek living in London, UK.
