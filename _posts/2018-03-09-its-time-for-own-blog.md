@@ -3,8 +3,8 @@ title: "Own blog - mieux vaut tard que jamais!"
 author: "Pat Eskinasy"
 date: 2018-03-09
 excerpt: "Own blog, writing habit next."
-categories: [personal]
-tags: [personal]
+#categories: [personal]
+#tags: [personal]
 header:
     overlay_image: /assets/images/writinghabit.jpg
     overlay_filter: 0.25
