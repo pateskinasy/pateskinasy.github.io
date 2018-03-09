@@ -1,7 +1,7 @@
 ---
 title: "It's time for my own blog"
 author: "Pat Eskinasy"
-date: 2018-02-25
+date: 2018-03-09
 excerpt: "Own blog, writing habit next."
 categories: [personal]
 tags: [personal]
