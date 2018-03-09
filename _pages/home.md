@@ -12,3 +12,6 @@ show_overlay_title: true
 #show_overlay_excerpt: true
 excerpt: "Very Neek"
 ---
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
