@@ -11,7 +11,7 @@ share: true
 featured: false
 header:
     overlay_image: /assets/images/writinghabit.jpg
-    overlay_filter: 0.2
+    overlay_filter: 0.25
     teaser: dots.jpg
 featured: false
 ---
