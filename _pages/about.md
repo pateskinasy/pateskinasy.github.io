@@ -1,12 +1,15 @@
 ---
 permalink: /about/
 layout: single
+title: "About Me"
 header:
   overlay_image: /assets/images/humanprocessing.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
   overlay_filter: 0.25
+show_overlay_excerpt: true
+show_overlay_title: true
 excerpt: "About Me"
 ---
 
