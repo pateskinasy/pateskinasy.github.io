@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: single
+layout: splash
 title: "About Me"
 header:
   overlay_image: /assets/images/humanprocessing.jpg
@@ -8,8 +8,8 @@ header:
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
   overlay_filter: 0.25
-show_overlay_excerpt: true
 show_overlay_title: true
+#show_overlay_excerpt: true
 #excerpt: "About Me"
 ---
 
