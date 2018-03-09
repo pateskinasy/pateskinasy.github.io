@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: home
+layout: archive
 title: "Pat Eskinasy"
 header:
   overlay_image: /assets/images/interface.jpg
