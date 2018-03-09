@@ -13,7 +13,7 @@ header:
     overlay_image: writinghabit.jpg
     overlay_filter: 0.2
     teaser: dots.jpg
-
+featured: false
 ---
 
 It is time for my own blog. So here comes a Hello world
