@@ -1,5 +1,5 @@
 ---
-title: "It's time for my own blog"
+title: "Own blog - mieux vaut tard que jamais!"
 author: "Pat Eskinasy"
 date: 2018-03-09
 excerpt: "Own blog, writing habit next."
