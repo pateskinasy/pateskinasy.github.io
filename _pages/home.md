@@ -12,4 +12,6 @@ show_overlay_title: true
 #show_overlay_excerpt: true
 excerpt: "Very Neek"
 author_profile: true
+pagination:
+  enabled: true
 ---
