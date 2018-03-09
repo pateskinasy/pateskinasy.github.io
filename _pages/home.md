@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: archive
 title: "Pat Eskinasy"
 header:
   overlay_image: /assets/images/interface.jpg
@@ -12,6 +12,21 @@ show_overlay_title: true
 #show_overlay_excerpt: true
 excerpt: "Very Neek"
 ---
-{% include feature_row id="intro" type="center" %}
+{% include base_path %}
 
-{% include feature_row %}
+{% assign featured_posts = site.posts | where: "featured", true %}
+{% if paginator.page == 1 && featured_posts.size > 0 %}
+  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].featured_posts }}</h3>
+
+  {% for post in featured_posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
