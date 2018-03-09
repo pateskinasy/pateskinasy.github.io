@@ -8,7 +8,6 @@ tags: [personal]
 header:
     overlay_image: /assets/images/writinghabit.jpg
     overlay_filter: 0.25
-    teaser: dots.jpg
 featured: true
 ---
 
