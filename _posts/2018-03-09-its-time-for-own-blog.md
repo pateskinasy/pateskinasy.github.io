@@ -10,7 +10,7 @@ comments: true
 share: true
 featured: false
 header:
-    overlay_image: writinghabit.jpg
+    overlay_image: /assets/images/writinghabit.jpg
     overlay_filter: 0.2
     teaser: dots.jpg
 featured: false
