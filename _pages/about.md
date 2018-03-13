@@ -20,5 +20,5 @@ Busy building a business and trying as much as possible to enjoy the journey.
 Outside of business, I'm generally busy learning new things, doing Yoga and Jogging.
 
 <lastBuildDate>
-Last Build {{ site.time | date_to_rfc822 }}
+Last Build: {{ site.time | date_to_rfc822 }}
 </lastBuildDate>
