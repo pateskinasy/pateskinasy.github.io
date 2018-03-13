@@ -11,8 +11,7 @@ header:
 featured: false
 ---
 
-High time to maintain my own blog, so here comes a 'Hello world'.
-test
+High time to maintain my own blog, so here comes a 'Hello world'. test
 
 
 
