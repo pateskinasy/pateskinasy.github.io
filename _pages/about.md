@@ -11,6 +11,7 @@ header:
 show_overlay_title: true
 #show_overlay_excerpt: true
 #excerpt: "About Me"
+classes: wide
 ---
 
 I'm a neek living in London, UK.
