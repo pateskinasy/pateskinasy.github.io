@@ -31,10 +31,11 @@ layout: default
           {% if page.date %}
             <p class="page__meta" style="margin-top: 0">
               <span class="byline-item">
-              <i class="far fa-calendar" aria-hidden="true"></i>itemprop="datePublished" <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time></span>
+              <i class="far fa-calendar" aria-hidden="true"></i>itemprop="datePublished" <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time></span>{% endif %}
               {% if page.read_time %}
               <span class="byline-item">
-              <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+              <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}{% endif %}
+            </p>
           {% endif %}
         </header>
       {% endunless %}
