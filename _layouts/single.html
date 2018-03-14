@@ -28,8 +28,13 @@ layout: default
         <header>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.excerpt %}<h3 class="page__excerpt" style="margin-top: 0" itemprop="description">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</h3>{% endif %}
-          {% if page.read_time %}
-            <p class="page__meta" style="margin-top: 0"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+          {% if page.date %}
+            <p class="page__meta" style="margin-top: 0">
+              <span class="byline-item">
+              <i class="far fa-calendar" aria-hidden="true"></i>itemprop="datePublished" <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %-d, %Y' }}</time></span>
+              {% if page.read_time %}
+              <span class="byline-item">
+              <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         </header>
       {% endunless %}
