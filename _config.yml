@@ -211,6 +211,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+gems:
+  - jekyll-feed
 
 # Archives
 #  Type
