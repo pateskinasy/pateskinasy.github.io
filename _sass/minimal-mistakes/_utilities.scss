@@ -522,3 +522,11 @@ a.reversefootnote {
     position: static;
   }
 }
+
+.byline-item {
+    white-space: nowrap;
+
+    &:not(:first-child) {
+       margin-left: 1.5rem;
+     }
+   }
