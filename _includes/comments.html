@@ -30,9 +30,9 @@
         {% if site.repository and site.staticman.branch %}
           <!-- Start static comments -->
           <div class="js-comments">
-            {% if site.post.data.comments[page.slug] %}
+            {% if site.docs.data.comments[page.slug] %}
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-              {% assign comments = site.post.data.comments[page.slug] | sort %}
+              {% assign comments = site.docs.data.comments[page.slug] | sort %}
 
               {% for comment in comments %}
                 {% assign email = comment[1].email %}
