@@ -33,7 +33,6 @@
             {% if site.data.comments[page.slug] %}
               <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
               {% assign comments = site.data.comments[page.slug] | sort %}
-
               {% for comment in comments %}
                 {% assign email = comment[1].email %}
                 {% assign name = comment[1].name %}
@@ -54,7 +53,6 @@
                 <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
                 <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
               </div>
-
               <div class="form-group">
                 <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
                 <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
