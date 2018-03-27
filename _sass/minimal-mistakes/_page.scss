@@ -148,6 +148,9 @@
 
     a {
       color: #fff;
+      a.hover:hover {
+    text-decoration: underline;
+      }
     }
 
     .wrapper {
