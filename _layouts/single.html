@@ -38,7 +38,7 @@ layout: default
               {% if page.comments == true and site.data.comments[page.slug].size > 0 %}
               <span class="byline-item">
               <a href="#comments">
-              <i class="far fa-comment" aria-hidden="true"><use xlink:href="{{ site.data.comments[page.slug] | size | relative_url }}"></use></i>&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></span>{% endif %}
+              <i class="far fa-comment" aria-hidden="true"></i> {{ site.data.comments[page.slug] | size }}&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></span>{% endif %}
             </p>
           {% endif %}
         </header>
