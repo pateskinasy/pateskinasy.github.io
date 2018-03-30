@@ -37,8 +37,7 @@ layout: default
               <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}{% endif %}
               {% if page.comments == true and site.data.comments[page.slug].size > 0 %}
               <span class="byline-item">
-              <a class="hover" href="#comments">
-              <i class="far fa-comment" aria-hidden="true"></i> {{ site.data.comments[page.slug] | size }}&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></span>{% endif %}
+              <li><a href="#comments"><i class="far fa-comment" aria-hidden="true"></i> {{ site.data.comments[page.slug] | size }}&nbsp;Comment{% if site.data.comments[page.slug].size > 1 %}s{% endif %}</a></li></span>{% endif %}
             </p>
           {% endif %}
         </header>
