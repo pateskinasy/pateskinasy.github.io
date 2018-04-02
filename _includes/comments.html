@@ -31,7 +31,7 @@
           <!-- Start static comments -->
           <div class="js-comments" id="comments">
             {% if site.data.comments[page.slug] %}
-              <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
+              <h4 class="page__comments-title">{{ site.data.comments[page.slug] | size | append: ' ' }}{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
               {% assign comments = site.data.comments[page.slug] | sort %}
 
               {% for comment in comments %}
