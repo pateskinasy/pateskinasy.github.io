@@ -278,8 +278,8 @@
     &:not(:first-child) {
       margin-left: 1.5rem;
     }
-    
-    &:hover {
+
+    a:hover {
       text-decoration: underline;
     }
   }
