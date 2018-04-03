@@ -266,6 +266,7 @@
 
   a {
     color: inherit;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -279,9 +280,9 @@
       margin-left: 1.5rem;
     }
 
-    a:hover {
-      text-decoration: underline;
-    }
+  //  a:hover {
+  //    text-decoration: underline;
+  //  }
   }
 
 
