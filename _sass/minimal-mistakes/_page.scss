@@ -265,8 +265,23 @@
   a {
     color: inherit;
   }
-  a.hover:hover {
-  text-decoration: underline;
+  
+  &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .byline-item {
+    white-space: nowrap;
+
+    &:not(:first-child) {
+      margin-left: 1.5rem;
+    }
+  }
+
+  .icon {
+    margin-right: 0.5em;
+    fill: $accent-color;
   }
 }
 
