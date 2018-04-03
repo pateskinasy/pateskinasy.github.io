@@ -151,7 +151,7 @@
     }
 
     &:hover {
-    text-decoration: underline;
+      text-decoration: underline;
     }
 
     .wrapper {
@@ -215,8 +215,8 @@
     text-decoration: none;
   }
   &:hover {
-  text-decoration: underline;
-  color: $link-color-hove
+    text-decoration: underline;
+    color: $link-color-hover;
   }
 }
 
