@@ -150,7 +150,7 @@
       color: #fff;
     }
 
-    &:hover {
+    a:hover {
       text-decoration: underline;
     }
 
@@ -214,7 +214,7 @@
     color: #fff;
     text-decoration: none;
   }
-  &:hover {
+  a:hover {
     text-decoration: underline;
     color: $link-color-hover;
   }
@@ -267,7 +267,7 @@
     color: inherit;
   }
 
-  &:hover {
+  a:hover {
       text-decoration: underline;
     }
 
