@@ -278,11 +278,12 @@
     &:not(:first-child) {
       margin-left: 1.5rem;
     }
+    
     &:hover {
       text-decoration: underline;
     }
   }
-}
+
 
 //  .icon {
 //    margin-right: 0.5em;
