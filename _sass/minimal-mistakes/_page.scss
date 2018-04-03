@@ -213,10 +213,11 @@
   a {
     color: #fff;
     text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-    color: $link-color-hover;
+
+    &:hover {
+      text-decoration: underline;
+      color: $link-color-hover;
+    }
   }
 }
 
@@ -265,11 +266,11 @@
 
   a {
     color: inherit;
-  }
 
-  a:hover {
+    &:hover {
       text-decoration: underline;
     }
+  }
 
   .byline-item {
     white-space: nowrap;
