@@ -3,8 +3,12 @@ title: "Own blog - mieux vaut tard que jamais!"
 date: 2018-03-09
 #last_modified_at: 2018-04-04
 excerpt: "Own blog, writing habit next."
-categories: [personal], [testcategory]
-tags: [new year resolution], [inspiration]
+categories:
+  - personal
+  - testcategory
+tags:
+  - new year resolution
+  - inspiration]
 author_profile: true
 comments: true
 share: false
