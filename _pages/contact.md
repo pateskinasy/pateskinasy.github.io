@@ -2,7 +2,7 @@
 layout: single
 permalink: /contact/
 title: "Contact"
-last_modified_at: 2018-04-04
+#last_modified_at: 2018-04-04
 excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
 ads: false
 share: false
