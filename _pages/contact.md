@@ -15,6 +15,8 @@ For anything not short-and-sweet, please fill out the form below and I'll get ba
 
 ## Contact Me
 
+<script>{% include wufoo.js %}</script>
+
 <div id="wufoo-z1al79z71ldclw1">
 Fill out my <a href="https://pamora.wufoo.co.uk/forms/z1al79z71ldclw1">online form</a>.
 </div>
