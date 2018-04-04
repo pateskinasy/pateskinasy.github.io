@@ -3,13 +3,13 @@ layout: single
 permalink: /contact/
 title: "Contact"
 #last_modified_at: 2018-04-04
-excerpt: "Preferred methods of sending your questions, inquires, messages, and love letters to me."
+excerpt: "Short and sweet is preferred. Thanks for reaching out."
 ads: false
 share: false
 author_profile: true  
 ---
 
-The best way to contact me is [via Twitter](https://twitter.com/celue)
+The best way to contact me is [via Twitter](https://twitter.com/celue).
 
 For anything not short-and-sweet, please fill out the form below and I'll get back to you by email.
 
@@ -37,7 +37,7 @@ For anything not short-and-sweet, please fill out the form below and I'll get ba
   </div>
   -->
   <div class="form-group">
-    <button id="saveForm" name="saveForm" class="btn" type="submit">Send Message</button>
+    <button type="submit" id="saveForm" name="saveForm" tabindex="5" class="btn btn--primary btn--large">Send Message</button>
   </div>
   <div class="form-group hidden">
     <label for="comment">Do Not Fill This Out</label>
