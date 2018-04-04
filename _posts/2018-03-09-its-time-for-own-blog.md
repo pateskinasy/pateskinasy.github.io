@@ -5,10 +5,9 @@ date: 2018-03-09
 excerpt: "Own blog, writing habit next."
 categories:
   - personal
-  - testcategory
 tags:
   - new year resolution
-  - inspiration]
+  - inspiration
 author_profile: true
 comments: true
 share: false
