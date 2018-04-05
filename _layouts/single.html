@@ -57,6 +57,8 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary" itemprop="sameAs" rel="nofollow noopener" target="_blank">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
+      <iframe style="height:400px;width:100%;max-width:800px;margin:30px auto;" src="https://upscri.be/611534?as_embed"></iframe>
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -68,8 +70,6 @@ layout: default
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
       </footer>
-
-      <iframe style="height:400px;width:100%;max-width:800px;margin:30px auto;" src="https://upscri.be/611534?as_embed"></iframe>
 
       {% if page.share %}{% include social-share.html %}{% endif %}
 
