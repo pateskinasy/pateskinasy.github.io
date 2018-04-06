@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Pat Eskinasy"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Very Neek."
+  bio              : #"Very Neek"
   location         : "London, UK"
   email            :
   uri              :
@@ -122,6 +122,7 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   medium           : celue
+  newsletter       : 611534
 
 
 # Reading Files
