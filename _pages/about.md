@@ -15,11 +15,13 @@ classes: wide
 author_profile: true  
 ---
 
-I'm a neek living in London, UK.
+Now busy with own project (in stealth).
 
-Busy building a business and trying as much as possible to enjoy the journey.
+Then: A fifteen years' career in B2B deep-tech across 4 continents.
 
-Outside of business, I'm generally busy learning new things, doing Yoga and Jogging.
+I dig making really complex stuff simple and am a massive product geek. As an Engineer and Economist, I am fascinated by decentralization (yes, I'll probably read - or skim - your white paper if I come across it). Specially interested in initiatives that help boost economic empowerment.
+
+Otherwise, you'll find me with ∞ tabs open in my browser, eating 🌱 food, doing Yoga or jogging.
 
 <lastBuildDate>
 Last Build: {{ site.time | date_to_rfc822 }}
