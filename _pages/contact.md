@@ -11,7 +11,7 @@ author_profile: true
 
 The best way to contact me is [via Twitter](https://twitter.com/celue).
 
-For anything not short and sweet, please contact me through the form below and I'll get back to you by email.
+For anything not short and sweet, please contact me via the form below and I'll get back to you by email.
 
 ## Contact Me
 
