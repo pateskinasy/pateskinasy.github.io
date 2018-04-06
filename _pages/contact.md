@@ -3,7 +3,7 @@ layout: single
 permalink: /contact/
 title: "Contact"
 #last_modified_at: 2018-04-04
-excerpt: "Short and sweet is preferred. Thanks for reaching out."
+#excerpt: "Short and sweet is preferred. Thanks for reaching out."
 ads: false
 share: false
 author_profile: true  
@@ -11,7 +11,7 @@ author_profile: true
 
 The best way to contact me is [via Twitter](https://twitter.com/celue).
 
-For anything not short-and-sweet, please fill out the form below and I'll get back to you by email.
+For anything not short and sweet, please contact me through the form below and I'll get back to you by email.
 
 ## Contact Me
 
