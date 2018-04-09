@@ -17,14 +17,14 @@ For anything not short and sweet, please contact me via the form below and I'll 
 
 <script>{% include wufoo.js %}</script>
 
-<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://pamora.wufoo.co.uk/forms/z1al79z71ldclw1">
+<form id="form1" name="form1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://pamora.wufoo.co.uk/forms/z1al79z71ldclw1/#public">
   <div class="form-group">
-    <label class="sr-only" id="title12" for="Field12"><strong>Message</strong><span id="req_1" class="req">*</span></label>
-    <textarea id="Field12" name="Field12" spellcheck="true" rows="10" cols="50" required placeholder="Message"></textarea>
+    <label class="sr-only" id="title1" for="Field1"><strong>Message</strong><span id="req_1" class="req">*</span></label>
+    <textarea id="Field1" name="Field1" spellcheck="true" rows="10" cols="50" required placeholder="Message"></textarea>
   </div>
   <div class="form-group">
-    <label class="sr-only" id="title13" for="Field13"><strong>Name</strong></label>
-    <input id="Field13" name="Field13" type="text" maxlength="255" placeholder="Name">
+    <label class="sr-only" id="title15" for="Field15"><strong>Name</strong></label>
+    <input id="Field15" name="Field15" type="text" maxlength="255" placeholder="Name">
   </div>
   <div class="form-group">
     <label class="sr-only" id="title10" for="Field10"><strong>Email address</strong><span id="req_2" class="req">*</span> <small>(will remain private)</small></label>
