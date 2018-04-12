@@ -10,6 +10,7 @@ main:
      url: /contact/
    - title: "Join Newsletter"
      button id: "open-popup"
+     url: /newsletter/
 
   # - title: "Join Newsletter"
   #   url: https://upscri.be/611534
