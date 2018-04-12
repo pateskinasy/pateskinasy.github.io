@@ -9,7 +9,7 @@ main:
    - title: "Contact"
      url: /contact/
    - title: "Join Newsletter"
-     url: /newsletter/   
+     button: open-popup  
   # - title: "Join Newsletter"
   #   url: https://upscri.be/611534
   # - title: "Sample Posts"
