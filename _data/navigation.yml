@@ -8,10 +8,7 @@ main:
      url: /posts/
    - title: "Contact"
      url: /contact/
-   - title: "Join Newsletter"
-     url id: "open-popup"
-     url: /newsletter/
-
+   
   # - title: "Join Newsletter"
   #   url: https://upscri.be/611534
   # - title: "Sample Posts"
