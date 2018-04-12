@@ -9,7 +9,7 @@ main:
    - title: "Contact"
      url: /contact/
    - title: "Join Newsletter"
-     button id: "open-popup"
+     url id: "open-popup"
      url: /newsletter/
 
   # - title: "Join Newsletter"
