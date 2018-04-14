@@ -263,6 +263,7 @@ defaults:
       comments: true
       share: true
       related: true
+      newsletter: true
   # _pages
   - scope:
       path: _path
