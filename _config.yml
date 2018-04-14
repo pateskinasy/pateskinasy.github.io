@@ -263,7 +263,6 @@ defaults:
       comments: true
       share: true
       related: true
-      newsletter: true
   # _pages
   - scope:
       path: _path
@@ -271,3 +270,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      newsletter: true
