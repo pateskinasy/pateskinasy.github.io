@@ -14,9 +14,7 @@
               <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {% endfor %}
-          <li class="masthead__menu-item">
           <button id="open-popup">Join Newsletter</button>
-          </li>
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
