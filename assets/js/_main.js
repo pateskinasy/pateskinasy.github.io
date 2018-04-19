@@ -104,20 +104,3 @@ $(document).ready(function() {
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 });
-
-//Mailchimp pop-up on Click
-const modalSubscribeToggle = document.getElementById("open-popup");
-if(modalSubscribeToggle != null){
-document.addEventListener("DOMContentLoaded", function(event) {
-modalSubscribeToggle.addEventListener("click", () => {
-  require(
-    ["mojo/signup-forms/Loader"],
-    function(L) {
-      L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"6aec26e81999396b8c544b7f5","lid":"8cfaf7db79"})
-    }
-  );
-  document.cookie = "MCPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;";
-  document.cookie = "MCPopupSubscribed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;";
-});
-});
-}
