@@ -35,6 +35,17 @@
   </div>
 </div>
 
-{% include newsletter.html %}
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false">
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $('#open-popup').click(function() {
+    document.cookie = "MCPopupClosed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;";
+    document.cookie = "MCPopupSubscribed=;path=/;expires=Thu, 01 Jan 1970 00:00:00 UTC;";
+require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us12.list-manage.com","uuid":"6aec26e81999396b8c544b7f5","lid":"8cfaf7db79"}) })
+});
+});
+</script>
 
 </body>
