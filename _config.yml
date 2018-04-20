@@ -56,9 +56,9 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
-  application_id         : 6IIVCVIYHH # YOUR_APPLICATION_ID
-  index_name             : getstarted_actors	# YOUR_INDEX_NAME
-  search_only_api_key    : 27e0db7e0494b5e42f5e12bd0b9ee52c # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : OBNLJ1YKNJ # YOUR_APPLICATION_ID
+  index_name             : blog	# YOUR_INDEX_NAME
+  search_only_api_key    : 22b7cff334143c6a193da680cf1c8f7c # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 
 # SEO Related
