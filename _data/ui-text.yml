@@ -15,8 +15,8 @@ en: &DEFAULT_EN
   minute_read                : "minute read"
   share_on_label             : "Share on"
   meta_label                 :
-#  tags_label                 :  "Tags:"
-#  categories_label           :  "Categories:"
+  tags_label                 :
+  categories_label           : 
   date_label                 : "Updated:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
