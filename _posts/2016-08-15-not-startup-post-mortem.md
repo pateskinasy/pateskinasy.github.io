@@ -136,7 +136,9 @@ _*names changed to protect privacy_
 **If you believe in our mission and would like to get involved, do reach out!**
 
 Tack, Obrigada, Thanks! 😍
+
 Pat Eskinasy
+
 Founder, Hen
 
 
