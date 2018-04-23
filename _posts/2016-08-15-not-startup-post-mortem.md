@@ -137,9 +137,5 @@ _*names changed to protect privacy_
 
 Tack, Obrigada, Thanks! 😍
 
-Pat Eskinasy
-
-Founder, Hen
-
 
 
