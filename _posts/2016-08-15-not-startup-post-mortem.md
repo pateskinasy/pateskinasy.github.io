@@ -38,7 +38,7 @@ TL;DR
 
 In 2011 I lived in Taiwan and during my time there I had Mandarin classes in my office with my tutor Saca*, everyday at 07:30 am sharp.
 
-![Taiwan Adventures]({{site.baseurl}}/assets/images/post_images/taiwan.png alt="image-center" class="align-center")
+<img ![Taiwan Adventures]({{site.baseurl}}/assets/images/post_images/taiwan.png alt="image-center" class="align-center") />
 
 Saca Studio, my tutor’s business, was going from strength to strength and was already employing three other tutors. Saca’s upbeat nature and strong work-ethics made the early morning appointments less painful, but one day, she arrived late to our morning appointment, paler and more tired than usual. Expecting a stomach bug for an explanation, her response surprised me:
 
