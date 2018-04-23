@@ -24,13 +24,13 @@ header:
 
 _TL;DR_
 
-- _For the last two months we’ve been busy building a new product called Hen.
-- Since October 2015, we’ve shipped (products, prototypes, content, hired talent) and learnt (a lot)
-- If you can’t “talk metrics” yet (#JargonAlert: TCV; ACV; Active users; etc), you don’t yet run a company, you are working on a project
-- It will be hard to ship it if you are not obsessed with a problem or are hiring others not equally obsessed
-- You can solve a problem in several different ways. If you are working on one solution for some time and are struggling to talk metrics, go look for another solution
-- This post is **not** a startup post-mortem
-- But do read this post if you are into reading startup post-mortems 😎_
+- _For the last two months we’ve been busy building a new product called Hen._
+- _Since October 2015, we’ve shipped (products, prototypes, content, hired talent) and learnt (a lot)_
+- _If you can’t “talk metrics” yet (#JargonAlert: TCV; ACV; Active users; etc), you don’t yet run a company, you are working on a project_
+- _It will be hard to ship it if you are not obsessed with a problem or are hiring others not equally obsessed_
+- _You can solve a problem in several different ways. If you are working on one solution for some time and are struggling to talk metrics, go look for another solution_
+- _This post is **not** a startup post-mortem_
+- _But do read this post if you are into reading startup post-mortems 😎_
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/tldr.gif" alt="image-center" class="align-center" /></p> 
 
