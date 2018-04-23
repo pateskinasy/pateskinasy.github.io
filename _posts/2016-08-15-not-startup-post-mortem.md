@@ -21,8 +21,6 @@ header:
     overlay_filter: 0.25
     #teaser: /assets/images/dots.jpg
 ---
-## This is NOT a startup post-mortem
-### Why we are building Hen
 
 TL;DR
 
@@ -99,7 +97,7 @@ Another way of looking at our learnings: I like the analogies made by the Point 
 
 So, yeah, it didn’t work.
 
-But, we just couldn’t ignore the click-through rates we’ve witnessed around all things related to business management. Our conclusion was that we were winning in the typically “boring” business articles space because of our breezy language, fun metaphors and by being refreshingly current.![why.gif]({{site.baseurl}}/assets/images/post_images/why.gif)
+But, we just couldn’t ignore the click-through rates we’ve witnessed around all things related to business management. Our conclusion was that we were winning in the typically “boring” business articles space because of our breezy language, fun metaphors and by being refreshingly current.
 
 ## Starting Over, Getting Better
 
