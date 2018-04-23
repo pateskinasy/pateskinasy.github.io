@@ -32,13 +32,13 @@ TL;DR
 - This post is **not** a startup post-mortem
 - But do read this post if you are into reading startup post-mortems 😎
 
-![tldr]({{site.baseurl}}/assets/images/post_images/tldr.gif)
+![tldr]({{site.baseurl}}/assets/images/post_images/tldr.gif alt="image-center" class="align-center")
 
 ## The inspiration behind our work and accountant phobia
 
 In 2011 I lived in Taiwan and during my time there I had Mandarin classes in my office with my tutor Saca*, everyday at 07:30 am sharp.
 
-![Taiwan Adventures]({{site.baseurl}}/assets/images/post_images/taiwan.png)
+![Taiwan Adventures]({{site.baseurl}}/assets/images/post_images/taiwan.png alt="image-center" class="align-center")
 
 Saca Studio, my tutor’s business, was going from strength to strength and was already employing three other tutors. Saca’s upbeat nature and strong work-ethics made the early morning appointments less painful, but one day, she arrived late to our morning appointment, paler and more tired than usual. Expecting a stomach bug for an explanation, her response surprised me:
 
@@ -56,7 +56,7 @@ Scared off by business with a capital B, Saca relied on referrals and would ofte
 
 But, these valuable stories were often stuck in neglected and un-engaging websites and blogs (Saca used blogspot — ick!)
 
-![blogspot allure]({{site.baseurl}}/assets/images/post_images/cat.gif)
+![blogspot allure]({{site.baseurl}}/assets/images/post_images/cat.gif alt="image-center" class="align-center")
 
 I decided I would **make storytelling work at scale**. I wanted to allow more business owners to build trust by telling potential clients how good they are at doing what they do and I wanted all that trust-building to fuel a network of referrals between business owners.
  
@@ -72,7 +72,7 @@ We shipped a product in October 2015. It was a video storytelling community, a p
 
 Obviously, the success of our product was dependent on network-effects and we had planned to monetize it (yeah, getting paid later… 😳) with promoted content à la “Houzz” style.
 
-![In video we trust]({{site.baseurl}}/assets/images/post_images/video.gif)
+![In video we trust]({{site.baseurl}}/assets/images/post_images/video.gif alt="image-center" class="align-center")
 
 We’ve learnt a lot from it and decided to shut it down in December 2015. We then tested some further assumptions by shipping three prototypes between January and May 2016.
 
@@ -93,7 +93,7 @@ Another way of looking at our learnings: I like the analogies made by the Point 
 2. This wasn’t a consumer play either, so making 1 million consumers pay us $100 per year each also wasn’t an option
 3. We were not growing really really FAST
 
-![why]({{site.baseurl}}/assets/images/post_images/why.gif)
+![why]({{site.baseurl}}/assets/images/post_images/why.gif alt="image-center" class="align-center")
 
 So, yeah, it didn’t work.
 
