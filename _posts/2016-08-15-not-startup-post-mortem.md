@@ -36,7 +36,7 @@ _TL;DR_
 
 ## The inspiration behind our work and accountant phobia
 
-I lived in Taiwan in 2011 and during my time there I had Mandarin classes in my office with my tutor Saca*, everyday at 07:30 am sharp.
+In 2011, I lived in Taiwan. During my time there I had Mandarin classes in my office with my tutor Saca*, everyday at 07:30 am sharp.
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/taiwan.png" alt="image-center" class="align-center" /></p> 
 
