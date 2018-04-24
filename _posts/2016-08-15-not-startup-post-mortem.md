@@ -126,7 +126,7 @@ And it doesn’t take a genius to figure out that more growth is a good thing.
 
 ## Building Hen
 
-So, we are building [*Hen*](www.hen.ai), **a virtual assistant that makes running a business as easy as chatting.**
+So, we are building [**Hen**](www.hen.ai), **a virtual assistant that makes running a business as easy as chatting.**
 
 We target the large and growing market of independent and freelance workers. Approximately, 38 million of whom exist in the US and UK alone. While on a global level, about 1 in 3 workers identify themselves as self-employed.
 
