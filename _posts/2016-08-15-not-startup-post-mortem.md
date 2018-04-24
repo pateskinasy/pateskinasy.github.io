@@ -32,7 +32,8 @@ _TL;DR_
 - _This post is **not** a startup post-mortem_
 - _But do read this post if you are into reading startup post-mortems 😎_
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/tldr.gif" alt="image-center" class="align-center" /></p> 
+<figcaption>Look at 580 x 300 getting some love.</figcaption>
+<p><img src="{{site.baseurl}}/assets/images/post_images/tldr.gif" alt="image-center" class="align-center" <figcaption>TL;DR</figcaption> /></p> 
 
 ## The inspiration behind our work and accountant phobia
 
