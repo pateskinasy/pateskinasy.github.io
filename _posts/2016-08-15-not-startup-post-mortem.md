@@ -39,7 +39,7 @@ _TL;DR_
 
 In 2011, I lived in Taiwan. During my time there I had Mandarin classes in my office with my tutor Saca*, everyday at 07:30 am sharp.
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/taiwan.png" alt="image-center" class="align-center" /></p>
+<p><img src="{{site.baseurl}}/assets/images/post_images/taiwan.png" alt="" class="align-center" /></p>
 <figcaption>Taiwan adventures</figcaption>
 
 
@@ -59,7 +59,7 @@ Scared off by business with a capital B, Saca relied on referrals and would ofte
 
 But, these valuable stories were often stuck in neglected and un-engaging websites and blogs (Saca used blogspot — ick!)
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/cat.gif" alt="image-center" class="align-center" /></p>
+<p><img src="{{site.baseurl}}/assets/images/post_images/cat.gif" alt="" class="align-center" /></p>
 <figcaption>Blogspot allure</figcaption>
 
 I decided I would **make storytelling work at scale**. I wanted to allow more business owners to build trust by telling potential clients how good they are at doing what they do and I wanted all that trust-building to fuel a network of referrals between business owners.
@@ -76,7 +76,7 @@ We shipped a product in October 2015. It was a video storytelling community, a p
 
 Obviously, the success of our product was dependent on network-effects and we had planned to monetize it (yeah, getting paid later… 😳) with promoted content à la “Houzz” style.
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/video.gif" alt="image-center" class="align-center" /></p>
+<p><img src="{{site.baseurl}}/assets/images/post_images/video.gif" alt="" class="align-center" /></p>
 <figcaption>In video we trust</figcaption>
 
 We’ve learnt a lot from it and decided to shut it down in December 2015. We then tested some further assumptions by shipping three prototypes between January and May 2016.
@@ -98,7 +98,7 @@ Another way of looking at our learnings: I like the analogies made by the Point 
 2. This wasn’t a consumer play either, so making 1 million consumers pay us $100 per year each also wasn’t an option
 3. We were not growing really really FAST
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/why.gif" alt="image-center" class="align-center" /></p>
+<p><img src="{{site.baseurl}}/assets/images/post_images/why.gif" alt="" class="align-center" /></p>
 <figcaption>Why???</figcaption>
 
 So, yeah, it didn’t work.
