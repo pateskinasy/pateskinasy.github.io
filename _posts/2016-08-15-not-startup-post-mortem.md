@@ -64,7 +64,7 @@ But, these valuable stories were often stuck in neglected and un-engaging websit
 
 I decided I would **make storytelling work at scale**. I wanted to allow more business owners to build trust by telling potential clients how good they are at doing what they do and I wanted all that trust-building to fuel a network of referrals between business owners.
 
-For Saca that meant an easy way to let others know how she did her magic; how she enabled people like me to order food, talk to taxi drivers and buy medicine in Chinese.
+For Saca, that meant an easy way to let others know how she did her magic; how she enabled people like me to order food, talk to taxi drivers and buy medicine in Chinese.
 
 Now, given I would be building a business around small businesses, I knew I needed to find cost-effective means of customer acquisition given the much lower average annual customer value (ACV) that comes with serving SMBs. I also knew I needed to have organic traffic drive our signups and decided to build a community product.
 
@@ -83,7 +83,7 @@ We’ve learnt a lot from it and decided to shut it down in December 2015. We th
 
 The assumption underpinning all these early tests were:
 
-1. that video would help build trust among the community members (“I don’t know you but hey you seem trustworthy in that video”)
+1. that video would help build trust among the community members (“I don’t know you but hey, you seem trustworthy in that video”)
 2. that our video-“maker” could help service providers tell their stories also outside our platform (also helping us with virability — think watermarked videos)
 3. that we could achieve cross professions-referrals (a landscaper refers a photographer; a photographer refers a caterer)
 4. most importantly: referrals from other businesses would provide enough value and incentive for those small businesses to spend time in our platform (after all, we were not bringing them potential client eyeballs directly — at least not at that stage)
