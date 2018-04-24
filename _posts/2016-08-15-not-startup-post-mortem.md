@@ -133,8 +133,10 @@ And we are very excited about the road ahead. Thanks for reading!
 
 _*names changed to protect privacy_
 
-<p class="notice"><strong>If you believe in our mission and would like to get involved, do reach out!</strong> 
-  Tack, Obrigada, Thanks! 😍 </p>
+<p class="notice">
+  <strong>If you believe in our mission and would like to get involved, do reach out!</strong> 
+  <p>Tack, Obrigada, Thanks! 😍</p> 
+  </p>
 
 
 
