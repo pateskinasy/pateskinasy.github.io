@@ -135,8 +135,8 @@ _*names changed to protect privacy_
 
 <p class="notice">
   <strong>If you believe in our mission and would like to get involved, do reach out!</strong> 
-  <p class="notice">Tack, Obrigada, Thanks! 😍</p> 
-  </p>
+  <br>Tack, Obrigada, Thanks! 😍</br> 
+</p>
 
 
 
