@@ -19,7 +19,7 @@ header:
     #cta_label: "More Info"
     #cta_url: "https://unsplash.com"
     overlay_filter: 0.25
-    #teaser: /assets/images/dots.jpg
+    teaser: /assets/images/post_images/taiwan.png
 ---
 
 _TL;DR_
