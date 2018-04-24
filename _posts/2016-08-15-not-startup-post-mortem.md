@@ -30,7 +30,7 @@ _TL;DR_
 - _It will be hard to ship it if you are not obsessed with a problem or are hiring others not equally obsessed_
 - _You can solve a problem in several different ways. If you are working on one solution for some time and are struggling to talk metrics, go look for another solution_
 - _This post is **not** a startup post-mortem_
-- _But do read this post if you are into reading startup post-mortems 😎_
+- _But do read this post if you are into reading startup post-mortems_ 😎
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/tldr.gif" alt="" class="align-center" /></p>
 <figcaption>TL;DR</figcaption>
