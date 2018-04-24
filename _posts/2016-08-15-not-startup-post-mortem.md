@@ -32,8 +32,10 @@ _TL;DR_
 - _This post is **not** a startup post-mortem_
 - _But do read this post if you are into reading startup post-mortems 😎_
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/tldr.gif" alt="image-center" class="align-center"/></p> 
-<figcaption>Look at 580 x 300 getting ome love.</figcaption>
+<figure class="align-center">
+<img src="{{site.baseurl}}/assets/images/post_images/tldr.gif" alt="" /> 
+<figcaption>TL;DR</figcaption>
+</figure>  
 
 
 ## The inspiration behind our work and accountant phobia
@@ -41,6 +43,7 @@ _TL;DR_
 In 2011, I lived in Taiwan. During my time there I had Mandarin classes in my office with my tutor Saca*, everyday at 07:30 am sharp.
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/taiwan.png" alt="image-center" class="align-center" /></p> 
+  
 
 Saca Studio, my tutor’s business, was going from strength to strength and was already employing three other tutors. Saca’s upbeat nature and strong work-ethics made the early morning appointments less painful, but one day, she arrived late to our morning appointment, paler and more tired than usual. Expecting a stomach bug for an explanation, her response surprised me:
 
