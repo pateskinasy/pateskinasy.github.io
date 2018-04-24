@@ -246,6 +246,7 @@ figure {
       width: 100%;
       text-align: center;
       margin-top: 0.25em;
+      margin-bottom: 0.25em;
     }
   }
 
@@ -261,6 +262,7 @@ figure {
       width: 100%;
       text-align: center;
       margin-top: 0.25em;
+      margin-bottom: 0.25em;
     }
   }
 }
@@ -269,7 +271,7 @@ figure {
 
 figcaption {
   margin-top: 0.25em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
   color: $muted-text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
