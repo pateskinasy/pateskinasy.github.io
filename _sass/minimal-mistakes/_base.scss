@@ -220,7 +220,7 @@ figure {
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
   }
 
   img {
@@ -245,6 +245,7 @@ figure {
     figcaption {
       width: 100%;
       text-align: center;
+      margin-top: 0.25em;
     }
   }
 
@@ -259,6 +260,7 @@ figure {
     figcaption {
       width: 100%;
       text-align: center;
+      margin-top: 0.25em;
     }
   }
 }
