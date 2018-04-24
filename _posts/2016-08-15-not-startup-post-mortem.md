@@ -122,6 +122,7 @@ And it doesn’t take a genius to figure out that more growth is a good thing.
 > “Thank you industrialization. Thank you steel mill. Thank you power station. And thank you chemical processing industry that gave us time to read books.” — Hans Rosling
 
 <iframe width="700" height="393" src="https://www.youtube.com/embed/BZoKfap4g4w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption>Give me more automation!</figcaption>
 
 ## Building Hen
 
