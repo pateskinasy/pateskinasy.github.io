@@ -31,7 +31,8 @@ I dig making really complex stuff simple and am a massive product geek. As an En
 
 Otherwise, you'll find me with ∞ tabs open in my browser, eating 🌱 food, doing Yoga or jogging.
 
-
+<!--
 <lastBuildDate>
 Last Build: {{ site.time | date_to_rfc822 }}
 </lastBuildDate>
+-->
