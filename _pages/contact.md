@@ -13,6 +13,8 @@ The best way to contact me is [via Twitter](https://twitter.com/celue).
 
 For anything not short and sweet, please contact me via the form below and I'll get back to you by email.
 
+You may also join my [Newsletter](https://upscri.be/611534).
+
 ## Contact Me
 
 <script>{% include wufoo.js %}</script>
