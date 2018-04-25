@@ -3,7 +3,7 @@ layout: archive
 permalink: /posts/
 title: &title "Posts by Year"
 alt_title: *title
-excerpt: &excerpt "Thoughts, inspiration, mistakes, and other stuff I've written. For smaller, more regular writing --- peruse the [*Today I Learned*](/til/) section."
+excerpt: &excerpt "Blog posts by Pat Eskinasy archived per year."
 introduction: *excerpt
 pagination:
   enabled: true
