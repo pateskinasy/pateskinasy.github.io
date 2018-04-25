@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.25
 show_overlay_title: true
 #show_overlay_excerpt: true
-#excerpt: "About Me"
+excerpt: "About Pat Eskinasy"
 classes: wide
 author_profile: true  
 ---
