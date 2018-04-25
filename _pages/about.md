@@ -19,7 +19,7 @@ Hi, I'm Pat Eskinasy.
 
 On this site, you’ll find some articles I’ve written and will get to know a little about me.
 
-You can also find me at [Twitter](https://twitter.com/celue), [Medium](https://medium.com/@celue), [Linkedin](https://linkedin.com/in/pateskinasy) and [Github](https://github.com/pateskinasy). You may also join my [Newsletter](https://upscri.be/611534).
+You can also find me at [Twitter](https://twitter.com/celue), [Medium](https://medium.com/@celue), [Linkedin](https://linkedin.com/in/pateskinasy) and [Github](https://github.com/pateskinasy). You may also join my (infrequent) email [Newsletter](https://upscri.be/611534).
 
 The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, feel free to reach out [here](/contact).
 
