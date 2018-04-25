@@ -3,7 +3,7 @@ layout: single
 permalink: /contact/
 title: "Contact"
 #last_modified_at: 2018-04-04
-#excerpt: "Short and sweet is preferred. Thanks for reaching out."
+excerpt: "Ways to contact Pat Eskinasy."
 ads: false
 share: false
 author_profile: true  
