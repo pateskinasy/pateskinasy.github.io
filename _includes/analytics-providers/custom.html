@@ -8,8 +8,23 @@
 	if (document.cookie.indexOf(disableStr + '=true') > -1) {
 	  window[disableStr] = true;
 	}
+-->
+  <script>
+// Set to the same value as the web property used on the site
+var gaProperty = 'UA-63637104-1';
 
-	//»»»paste your tracking code here«««
+// Disable tracking if the opt-out cookie exists.
+var disableStr = 'ga-disable-' + gaProperty;
+if (document.cookie.indexOf(disableStr + '=true') > -1) {
+  window[disableStr] = true;
+}
+
+// Opt-out function
+function gaOptout() {
+  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+  window[disableStr] = true;
+}
+	»»»paste your tracking code here«««
 	-->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-63637104-1"></script>
 <script>
@@ -20,6 +35,6 @@
   gtag('config', 'UA-63637104-1');
 </script>
 <!-- end custom analytics snippet -->
-<!--
+
 </script>
 -->
