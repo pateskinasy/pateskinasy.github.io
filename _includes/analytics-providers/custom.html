@@ -11,10 +11,9 @@ if (document.cookie.indexOf(disableStr + '=true') > -1) {
 }
 // Opt-out function
 function gaOptout() {
-document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-window[disableStr] = true;
+  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+  window[disableStr] = true;
 }
-document.gaOptout("disable-ga").onclick = function() {gaOptout()};
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-63637104-1">
 </script>

@@ -1,3 +1,10 @@
 Don't do anything here unless instructed to by a dev (aka Pat).
 <br>
-<a href="javascript:gaOptout()">Click here to opt-out of Google Analytics</a>
+<a onclick="alert('Google Analytics TRacking is now deactivated');" href="javascript:gaOptout()">Click here to opt-out of Google Analytics</a>
+<script>
+// Opt-out function
+function gaOptout() {
+  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+  window[disableStr] = true;
+}
+</script>
