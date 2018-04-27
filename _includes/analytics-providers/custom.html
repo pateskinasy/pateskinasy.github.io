@@ -1,15 +1,5 @@
 <!-- start custom analytics snippet -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--
-  // Set your tracking ID of the web property. (Can be copied from tracking code)
-	var gaProperty = 'UA-63637104-1';
-
-	// Check if cookie exists, set a window property.
-	var disableStr = 'ga-disable-' + gaProperty;
-	if (document.cookie.indexOf(disableStr + '=true') > -1) {
-	  window[disableStr] = true;
-	}
--->
 <script>
 // Set to the same value as the web property used on the site
 var gaProperty = 'UA-63637104-1';
@@ -20,10 +10,12 @@ if (document.cookie.indexOf(disableStr + '=true') > -1) {
   window[disableStr] = true;
 }
 // Opt-out function
-//function gaOptout() {
-//  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-//  window[disableStr] = true;
-//}
+function gaOptout() {
+document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[disableStr] = true;
+}
+document.gaOptout("disable-ga").onclick = function() {gaOptout()};
+</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-63637104-1">
 </script>
 <script>
@@ -32,7 +24,6 @@ if (document.cookie.indexOf(disableStr + '=true') > -1) {
   gtag('js', new Date());
 
   gtag('config', 'UA-63637104-1');
-</script>
 </script>
 
 <!-- end custom analytics snippet -->
