@@ -6,8 +6,8 @@ excerpt: "Why we're building Hen"
 categories:
   - Hen
 tags:
-  - pivot
-  - opportunities
+  - Pivot
+  - Opportunities
 author_profile: true
 comments: true
 share: false
