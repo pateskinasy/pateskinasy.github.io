@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/celue
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.pateskinasy.com
+  * I am celue (https://keybase.io/celue) on keybase.
+  * I have a public key with fingerprint 08EE F946 0AB3 C05A 82C2  C4BE FF84 10EF F945 1423
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015f6035be62ae9f489ceca83e8dc78a099bbc999df704474ed481195261d637c20a",
+      "fingerprint": "08eef9460ab3c05a82c2c4beff8410eff9451423",
+      "host": "keybase.io",
+      "key_id": "ff8410eff9451423",
+      "kid": "01015f6035be62ae9f489ceca83e8dc78a099bbc999df704474ed481195261d637c20a",
+      "uid": "0e445e60c29c71d9cf4be0bc559d2619",
+      "username": "celue"
+    },
+    "service": {
+      "hostname": "www.pateskinasy.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526309651,
+  "expire_in": 157680000,
+  "prev": "4b1713e5e1d5105b5c229669ed8d421508dca14d8f8f893f312467e264b9640a",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBRRGF4via4JxVphVMSkZbXYnJkzl7NCVzXoQUN6EDXWmTNndFjd
+2XbGNRPFErRQKoSIyMIoClSMRC0fIrWgQCisEEPsIYnwRheKjC52xuytx855+Dn/
++b7v//6f/1FSjMsdNWgV134IJKdEjQy1VboKv1331DCqqVUzvhomQJYCKdeIZfsD
+hsb4GBawQNBFlhdUInIKQTqUESZYkXkia1iSFRYhVcUIIU2XWAglSDQoA4AETgSa
+yEuYYxXGy+hGsJSEQ2EjaDuyMiE6giKrqDxmBUXmMIehSnRdhoClAUEBQI6nxDLT
+chjUnKpYJMMwaY4+/Ev2/oH/z74r/8gRCAUisphDWAIawjo1y6pYEJBG8cgBWiQc
+VCoIRWNSXkmYWi9DUxEDE2eqThvL31VVVRkhxSZWwAgqVnUGNisoPxQ2bROb5RRQ
+Ztshy+cI2NWhJQZR/ctaftUIanSWlBEhYcswg4wPUCS2DUccUPs8i0QBeBlyPGSE
+id9wEIIkyiw9Th0SoZJQBRLgiUCAJgBWUAXMcUgUEdFkDXJAYOmUFAA1WacX8ToP
+OChKhBOhikS4NBqLHAuaVJuWspVSqmkZpUHFrgzT3ocHi2NdUW5X3IpoZ8lc7oRV
+f1cvZTzeNdAH64cyrY/PxMVAQR1/8MSNk57JPY3X3JNzBQbOn2nPG8sdLb+Y9nXW
+m9qWe3dg+GXLk4TQzsiPwstu16mn+30TPe3g+4uc/vqu3V/2nXtgH0Xr7lwBPS0L
+b6c+vR5405q99Wdm8tz6Mi3WRrGLpjf51d6+q+z2eyu927pBbyeTGqmNz07vvXnG
+Mzq/uvdhRVqRNtIL/fDw+13n+eKKz56NXf2RySTIH5jvKNAnWhq8dTNrDk3FPI+T
+Oy4kxic1nE4fGpmNa73V+O5+7MTC5uaSjuyzJYnTge4tWe0jY+4madzMO7LDeymx
+c+1086bkopys/IRfVdFSU2jD7cfoN/4ZOtw=
+=JkKU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/celue
+
+==================================================================
