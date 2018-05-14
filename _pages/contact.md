@@ -13,6 +13,8 @@ The best way to contact me is [via Twitter](https://twitter.com/celue).
 
 For anything not short and sweet, please contact me via the form below and I'll get back to you by email.
 
+[My PGP public key](/PGPpublickey.txt).
+
 You may also join my (infrequent) email [Newsletter](https://upscri.be/611534).
 
 ## Contact Me
