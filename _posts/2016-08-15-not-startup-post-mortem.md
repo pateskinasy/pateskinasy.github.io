@@ -10,7 +10,7 @@ tags:
   - Opportunities
 author_profile: true
 comments: true
-share: false
+share: true
 featured: false
 classes: wide
 header:
