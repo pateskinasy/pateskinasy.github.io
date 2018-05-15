@@ -5,7 +5,7 @@ layout: archive
 
 {% assign featured_posts = site.posts | where: "featured", true %}
 {% if paginator.page == 1 && featured_posts.size > 0 %}
-  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].featured_posts | default: "Featured Posts" }}</h3>
+  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].featured_posts | default: "Pinned Posts" }}</h3>
 
   {% for post in featured_posts %}
     {% include archive-single.html %}
