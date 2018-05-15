@@ -17,7 +17,7 @@ author_profile: true
 
 Hi, I'm Pat Eskinasy.
 
-On this site, you’ll find some articles I’ve written on some of my favourite things: decentralized and distributed systems, open source software, digital privacy, artificial intelligence, crypto, data science, product management, leadership, supply chains, ethical design, economics, economic empowerment, plant-based lifestyle, yoga, jogging, venture capital, capital markets and startups.
+On this site, you’ll find articles I’ve written on some of my favourite things: decentralized and distributed systems, open source software, digital privacy, artificial intelligence, crypto, data science, product management, leadership, supply chains, ethical design, economics, economic empowerment, plant-based lifestyle, yoga, jogging, venture capital, capital markets and startups.
 
 You can also find me on [Twitter](https://twitter.com/celue), [Medium](https://medium.com/@celue), [Linkedin](https://linkedin.com/in/pateskinasy) and [Github](https://github.com/pateskinasy). You may also join my (infrequent) email [Newsletter](https://upscri.be/611534).
 
