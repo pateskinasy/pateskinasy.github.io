@@ -21,7 +21,7 @@ On this site, you’ll find some articles I’ve written and will get to know a 
 
 You can also find me at [Twitter](https://twitter.com/celue), [Medium](https://medium.com/@celue), [Linkedin](https://linkedin.com/in/pateskinasy) and [Github](https://github.com/pateskinasy). You may also join my (infrequent) email [Newsletter](https://upscri.be/611534).
 
-The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, feel free to reach out [here](/contact).
+The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, drop a note [here](/contact).
 
 I'm now busy with own project (in stealth).
 
