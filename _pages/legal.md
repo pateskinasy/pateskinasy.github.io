@@ -21,17 +21,17 @@ My co-writers are incorporated herein 'by reference', which is legalese for “w
 
 ## DISCLAIMERS
 
--Any opinions expressed are solely my own and do not express the views or opinions of my employer. Co-writers incorporated herein by reference and their opinions are also their own and do not express the views or opinions of their employers.
--I am not responsible for the republishing of the content found on this website on other websites or media without my permission.
--This shall not constitute an offer to buy, sell, or solicit securities.
--All information provided herein is for informational purposes only and should not be relied upon to make an investment decision and does not intend to make an offer or solicitation for the sale or purchase of any specific securities, investments, or investment strategies.
--Nothing contained herein constitutes investment, legal, tax or other advice nor is it to be relied on in making an investment or other decision.
--This may contain forward-looking statements and projections that are based on our current beliefs and assumptions and on information currently available that we believe to be reasonable. However, such statements necessarily involve risks, uncertainties and assumptions.
--Investments involve risk and unless otherwise stated, are not guaranteed.
--In considering any performance information contained herein, you should bear in mind that past or projected performance is not necessarily indicative of future results, and there can be no assurance that any entity referenced herein will achieve comparable results or that return objectives, if any, will be met.
-All of the information herein is subject to change without notice. Information is provided as of the dates set forth herein. Current or future characteristics and other information may vary significantly from those provided herein and the poster undertakes no obligation to notify anyone of such variances or update the information herein.
--The poster does not represent that the information herein is accurate, true or complete, makes no warranty, express or implied, regarding the information herein and shall not be liable for any losses, damages, costs or expenses related to its adequacy, accuracy, truth, completeness or use.
--The charts, tables, and graphs contained in any post are not intended to be used to assist the reader in determining which securities to buy or sell or when to buy or sell securities.
+- Any opinions expressed are solely my own and do not express the views or opinions of my employer. Co-writers incorporated herein by reference and their opinions are also their own and do not express the views or opinions of their employers.
+- I am not responsible for the republishing of the content found on this website on other websites or media without my permission.
+- This shall not constitute an offer to buy, sell, or solicit securities.
+- All information provided herein is for informational purposes only and should not be relied upon to make an investment decision and does not intend to make an offer or solicitation for the sale or purchase of any specific securities, investments, or investment strategies.
+- Nothing contained herein constitutes investment, legal, tax or other advice nor is it to be relied on in making an investment or other decision.
+- This may contain forward-looking statements and projections that are based on our current beliefs and assumptions and on information currently available that we believe to be reasonable. However, such statements necessarily involve risks, uncertainties and assumptions.
+- Investments involve risk and unless otherwise stated, are not guaranteed.
+- In considering any performance information contained herein, you should bear in mind that past or projected performance is not necessarily indicative of future results, and there can be no assurance that any entity referenced herein will achieve comparable results or that return objectives, if any, will be met.
+- All of the information herein is subject to change without notice. Information is provided as of the dates set forth herein. Current or future characteristics and other information may vary significantly from those provided herein and the poster undertakes no obligation to notify anyone of such variances or update the information herein.
+- The poster does not represent that the information herein is accurate, true or complete, makes no warranty, express or implied, regarding the information herein and shall not be liable for any losses, damages, costs or expenses related to its adequacy, accuracy, truth, completeness or use.
+- The charts, tables, and graphs contained in any post are not intended to be used to assist the reader in determining which securities to buy or sell or when to buy or sell securities.
 
 
 ## PRIVACY POLICY
