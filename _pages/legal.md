@@ -40,7 +40,7 @@ Oh, and good to note that this page is reviewed and revised from time to time.
 ## PRIVACY POLICY
 
 Your time is valuable so I’ll keep it simple.
-1. I collect your email address (should you join my Newsletter) and will use this information by adding you to my list of interested visitors, to be in touch with you, send you newsletters that include an opt-out link, and provide you with updates and marketing.
+1. I collect your email address (should you join my newsletter) and will use this information by adding you to my list of interested visitors, to be in touch with you, send you newsletters that include an opt-out link, and provide you with updates and marketing.
 3. I do not to share your personal information with 3rd party services.
 4. Every email I send will include a link to opt out of any future communication. You can also contact pateskinasy.newsletter@gmail.com directly if you wish for
 your data to be 100% deleted.
