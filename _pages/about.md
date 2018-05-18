@@ -11,6 +11,7 @@ header:
 show_overlay_title: true
 #show_overlay_excerpt: true
 excerpt: "About Pat Eskinasy"
+share: false
 classes: wide
 author_profile: true  
 ---
