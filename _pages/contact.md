@@ -2,10 +2,9 @@
 layout: single
 permalink: /contact/
 title: "Contact"
-#last_modified_at: 2018-04-04
 excerpt: "Ways to contact Pat Eskinasy."
-ads: false
 share: false
+classes: wide
 author_profile: true  
 ---
 
