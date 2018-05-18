@@ -44,7 +44,7 @@ Your time is valuable so I’ll keep it simple.
 3. I do not to share your personal information with 3rd party services.
 4. Every email I send will include a link to opt out of any future communication. You can also contact pateskinasy.newsletter@gmail.com directly if you wish for
 your data to be 100% deleted.
-5. I do not store information I collect about your visit to this website for use other than to analyse content performance through the use of cookies (log files to help learn about when, from where, and how often traffic flows to this site), which you can turn off at anytime by modifying your Internet browser's settings.
+5. I do not store information I collect about your visit to this website for use other than to analyse content performance through the use of cookies (log files to help learn about when, from where, and how often traffic flows to this website), which you can turn off at anytime by modifying your Internet browser's settings.
 
 ## LICENSE
 All original content (e.g. articles, blog posts, data visualizations, illustrations, photographs) available on this website is released under a 'All Rights Reserved' License, unless otherwise noted. In other words, this means you are free to redistribute the material in any medium or format as long as you don’t use it for commercial purposes without my prior written consent and you must give appropriate credit.
