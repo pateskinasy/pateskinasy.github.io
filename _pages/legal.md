@@ -49,7 +49,7 @@ your data to be 100% deleted.
 ## LICENSE
 All original content (e.g. articles, blog posts, data visualizations, illustrations, photographs) available on this website is released under a 'All Rights Reserved' License, unless otherwise noted. In other words, this means you are free to redistribute the material in any medium or format as long as you don’t use it for commercial purposes without my prior written consent and you must give appropriate credit.
 
-# ATTRIBUTION
+### ATTRIBUTION
 A link back to the 'source article' attributed to either [pateskinasy.com](https://www.pateskinasy.com) or [Pat Eskinasy](https://www.pateskinasy.com) is good enough for me.
 
 That’s all for now!
