@@ -53,7 +53,7 @@ All original content (e.g. articles, blog posts, data visualizations, illustrati
 
 ### ATTRIBUTION
 
-A link back to the 'source article' with the original content attributed to either [pateskinasy.com](https://www.pateskinasy.com) or [Pat Eskinasy](https://www.pateskinasy.com) is good enough for me.
+A link back to the 'source article' with the original content, attributed to either [pateskinasy.com](https://www.pateskinasy.com) or [Pat Eskinasy](https://www.pateskinasy.com) is good enough for me.
 
 That’s all for now!
 
