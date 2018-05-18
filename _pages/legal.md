@@ -10,7 +10,7 @@ title: "Legal Stuff"
   #overlay_filter: 0.25
 #show_overlay_title: true
 #show_overlay_excerpt: true
-excerpt: "Disclaimers and Privacy Policy"
+excerpt: "Disclaimers, Privacy Policy and License"
 classes: wide
 author_profile: true
 ---
@@ -46,10 +46,10 @@ Your time is valuable so I’ll keep it simple.
 your data to be 100% deleted.
 5. I do not store information I collect about your visit to this website for use other than to analyse content performance through the use of cookies (log files to help learn about when, from where, and how often traffic flows to this site), which you can turn off at anytime by modifying your Internet browser's settings.
 
-## License
-All original content (e.g. articles, blog posts, data visualizations, illustrations, photographs) available on this website is released under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US), unless otherwise noted. In other words, this means you are free to share, transmit, distribute, alter, transform, and build on my work just as long as you don’t use it for commercial purposes without my prior written consent.
+## LICENSE
+All original content (e.g. articles, blog posts, data visualizations, illustrations, photographs) available on this website is released under a 'All Rights Reserved' License, unless otherwise noted. In other words, this means you are free to redistribute the material in any medium or format as long as you don’t use it for commercial purposes without my prior written consent and you must give appropriate credit.
 
-# Attribution
+# ATTRIBUTION
 A link back to the 'source article' attributed to either [pateskinasy.com](https://www.pateskinasy.com) or [Pat Eskinasy](https://www.pateskinasy.com) is good enough for me.
 
 That’s all for now!
