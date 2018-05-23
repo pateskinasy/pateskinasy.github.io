@@ -2,11 +2,11 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About Me"
+   - title: "ABOUT ME"
      url: /about/
-   - title: "Archives"
+   - title: "ARCHIVES"
      url: /posts/
-   - title: "Contact"
+   - title: "CONTACT"
      url: /contact/
   # - title: "Join Newsletter"
   #   url: https://upscri.be/611534
