@@ -22,7 +22,7 @@
     -webkit-box-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    font-size: 0.75rem
+    font-size: 0.75rem;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -47,7 +47,7 @@
   align-items: center;
   font-weight: bold;
   z-index: 20;
-  font-size: 1.65rem
+  font-size: 1.65rem;
   }
 
 .masthead__menu {
