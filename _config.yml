@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Pat Eskinasy Thoughts"
+title                    : "Pat Eskinasy"
 title_separator          : "-"
 name                     : "Pat Eskinasy"
-description              : "Thoughts by Pat Eskinasy."
+description              : "A few of my favourite things. Decentralized and Distributed systems | Open Source Software | Digital Privacy | Artificial Intelligence | Crypto | Data Science | Product Management | Leadership | Supply Chains | Ethical Design | Economics | Economic Empowerment | Plant-Based Lifestyle | Yoga | Jogging | Venture Capital | Capital Markets | Startups."
 url                      : https://www.pateskinasy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : pateskinasy/pateskinasy.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
