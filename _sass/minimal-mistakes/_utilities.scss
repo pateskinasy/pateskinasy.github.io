@@ -318,7 +318,7 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: #fff;
+    background: $primary-color;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
@@ -334,7 +334,7 @@ body:hover .visually-hidden button {
 
 .close .navicon {
   /* hide the middle line*/
-  background: transparent;
+  background: $primary-color;
 
   /* overlay the lines by setting both their top values to 0*/
   &:before,
