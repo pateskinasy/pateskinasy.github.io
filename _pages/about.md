@@ -18,7 +18,7 @@ author_profile: true
 
 Hi, I'm Pat Eskinasy.
 
-On this site, you’ll find articles I’ve written on some of my favourite things:
+On this site, you’ll find essays I’ve written on some of my favourite things:
 
 <p class="notice">
   <strong>Decentralized and Distributed systems | Open Source Software | Digital Privacy | Artificial Intelligence | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Supply Chains | Ethical Design | Economics | Economic Empowerment | Plant-Based Lifestyle | Yoga | Jogging | Venture Capital | Capital Markets | Startups</strong>
