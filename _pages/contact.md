@@ -12,7 +12,7 @@ The best way to contact me is [via Twitter](https://twitter.com/celue).
 
 For anything not short and sweet, please contact me via the form below and I'll get back to you by email.
 
-Please note: I get a lot of email and I may be slow to respond. Sometimes, unfortunately, things get lost in my dreaded inbox too.
+Please note: I get a lot of email and may be slow to respond. Sometimes, unfortunately, things get lost in my dreaded inbox too.
 
 [My PGP public key](/PGPpublickey.txt).
 
