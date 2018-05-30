@@ -40,10 +40,10 @@ Oh, and good to note that this page is reviewed and revised from time to time.
 ## PRIVACY POLICY
 
 Your time is valuable so I’ll keep it simple.
-1. I collect your email address (should you join my newsletter) and will use this information by adding you to my list of interested visitors, to be in touch with you, send you newsletters that include an opt-out link, and provide you with updates and marketing.
-3. I do not to share your personal information with 3rd party services.
-4. Every email I send will include a link to opt out of any future communication. You can also contact pateskinasy.newsletter@gmail.com directly if you wish for
-your data to be 100% deleted.
+1. I will never share your email address or any other personal information with anyone without your direct consent.
+2. I collect your email address (should you join my newsletter) and will use this information by adding you to my list of interested visitors, to be in touch with you, send you newsletters that include an opt-out link, and provide you with updates and marketing.
+3. I use MailChimp as marketing automation platform, Mailgun for email service, Upscribe for signup form management and Wufoo for contact form management. The information you provide will be transferred to them for processing in accordance with their Privacy Policy and Terms.
+4. Every email I send will include a link to opt out of any future communication. You can also contact me [here](/contact) directly if you wish for your data to be 100% deleted.
 5. I do not store information I collect about your visit to this website for use other than to analyse content performance through the use of cookies (log files to help learn about when, from where, and how often traffic flows to this website), which you can turn off at anytime by modifying your Internet browser's settings.
 
 
@@ -57,4 +57,4 @@ A link back to the 'source article' with the original content, attributed to eit
 
 That’s all for now!
 
-_Updated May 18, 2018_
+_Updated May 30, 2018_
