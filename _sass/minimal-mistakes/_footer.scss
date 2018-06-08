@@ -55,6 +55,12 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+
+  a {
+    color: inherit;
+    border-bottom: 1px dashed #999;
+    text-decoration: none;
+  }
 }
 
 .page__footer-follow {
