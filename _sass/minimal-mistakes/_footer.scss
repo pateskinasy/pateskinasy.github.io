@@ -62,16 +62,15 @@
     border-bottom-style: dotted;
     border-bottom-color: initial;
     text-decoration: none;
+    -moz-transition: color 0.2s ease-in-out border-bottom-color 0.2s ease-in-out;
+    -webkit-transition: color 0.2s ease-in-out border-bottom-color 0.2s ease-in-out;
+    -ms-transition: color 0.2s ease-in-out border-bottom-color 0.2s ease-in-out;
+    transition: color 0.2s ease-out border-bottom-color 0.2s ease-in-out;
 
     &:hover {
       text-decoration: none;
-      border-bottom-width: 1px;
-      border-bottom-style: dotted;
-      border-bottom-color: initial;
-      -moz-transition: color 0.2s ease-in-out border-bottom-color 0.2s ease-in-out;
-      -webkit-transition: color 0.2s ease-in-out border-bottom-color 0.2s ease-in-out;
-      -ms-transition: color 0.2s ease-in-out border-bottom-color 0.2s ease-in-out;
-      transition: color 0.2s ease-out border-bottom-color 0.2s ease-in-out;
+      color: bolder;
+      border-bottom-color: transparent;
     }
   }
 }
