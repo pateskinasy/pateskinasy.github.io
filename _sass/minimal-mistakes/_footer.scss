@@ -58,7 +58,9 @@
 
   a {
     color: inherit;
-    border-bottom: 1px dashed #999;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: initial;
     text-decoration: none;
   }
 }
