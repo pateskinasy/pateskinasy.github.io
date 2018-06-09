@@ -30,7 +30,7 @@ The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwis
 
 I'm now busy with own project (in stealth).
 
-Then: A fifteen years' career in B2B deep-tech across 4 continents.
+Then: A fifteen years' career in B2B deep tech across 4 continents.
 
 I dig making really complex stuff simple and am a massive product geek. As an Engineer and Economist, I am fascinated by decentralization (yes, I'll probably read - or skim - your white paper if I come across it). Specially interested in initiatives that help boost economic empowerment.
 
