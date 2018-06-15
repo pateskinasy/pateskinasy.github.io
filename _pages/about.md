@@ -3,7 +3,7 @@ permalink: /about/
 layout: single
 title: "About Me"
 header:
-  overlay_image: /assets/images/humanprocessing.jpg
+  overlay_image: /assets/images/interface.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
