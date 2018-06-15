@@ -11,11 +11,11 @@ title: "Legal Stuff"
 #show_overlay_title: true
 #show_overlay_excerpt: true
 excerpt: "Disclaimers, Privacy Policy and License"
-classes: wide
+#classes: wide
 author_profile: false
 toc: true
 toc_label: "Legal"
-#toc_sticky: true 
+#toc_sticky: true
 
 ---
 
