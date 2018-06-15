@@ -15,6 +15,7 @@ excerpt: "Disclaimers, Privacy Policy and License"
 author_profile: false
 toc: true
 toc_label: "Legal"
+toc_icon: "file"
 toc_sticky: true
 
 ---
