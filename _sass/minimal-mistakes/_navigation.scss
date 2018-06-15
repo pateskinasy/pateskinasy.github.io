@@ -178,8 +178,8 @@
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
+  -webkit-align-items: center;
   align-items: center;
-  justify-content: center;
   background: $background-color;
 
   a {
