@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "About Me"
+title: "About Pat Eskinasy"
 header:
   overlay_image: /assets/images/interface.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.25
 show_overlay_title: true
 #show_overlay_excerpt: true
-excerpt: "About Pat Eskinasy"
+#excerpt: "About Pat Eskinasy"
 share: false
 classes: wide
 author_profile: true  
