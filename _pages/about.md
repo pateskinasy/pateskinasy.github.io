@@ -32,7 +32,7 @@ I'm now busy with own project (in stealth).
 
 Then: A fifteen years' career in B2B deep tech across 4 continents.
 
-I dig making really complex stuff simple and am a massive product geek. As an Engineer and Economist, I am fascinated by decentralization (yes, I'll probably read - or skim - your white paper if I come across it). Specially interested in initiatives that help boost economic empowerment.
+I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an Engineer and Economist, I became fascinated by decentralization (I know...soo predictable. And yes, I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
 
 Otherwise, you'll find me with ∞ tabs open in my browser, eating 🌱 food, doing yoga, jogging or enjoying the outdoors.
 
