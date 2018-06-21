@@ -4,7 +4,7 @@ https://keybase.io/celue
 
 I hereby claim:
 
-  * I am an admin of https://www.pateskinasy.com
+  * I am an admin of https://www.eskinasy.com
   * I am celue (https://keybase.io/celue) on keybase.
   * I have a public key with fingerprint 08EE F946 0AB3 C05A 82C2  C4BE FF84 10EF F945 1423
 
@@ -21,17 +21,27 @@ To do so, I am signing this object:
       "uid": "0e445e60c29c71d9cf4be0bc559d2619",
       "username": "celue"
     },
+    "merkle_root": {
+      "ctime": 1529577496,
+      "hash_meta": "e42224f41fba16e7a5abbfb1d2529f6f4c6baf1a44eb8e8b57276eaeff18d4ec",
+      "seqno": 3118588
+    },
+    "revoke": {
+      "sig_ids": [
+        "bca1cba6aa9dd9889215177609b0eb4942b6bf93272d6dee92eb9bb6b041a4660f"
+      ]
+    },
     "service": {
-      "hostname": "www.pateskinasy.com",
+      "hostname": "www.eskinasy.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1526316307,
+  "ctime": 1529577494,
   "expire_in": 157680000,
-  "prev": "f5007c0a939b1964b8bc85b829eec28acb8019e4142c8e4337e8cab0b5d10c2b",
-  "seqno": 21,
+  "prev": "268bead1c8593804837c24a1636a738d7b76f9c34b49c1a07deab2ab6f12c590",
+  "seqno": 22,
   "tag": "signature"
 }
 
@@ -41,23 +51,26 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.77
 Comment: https://keybase.io/crypto
 
-yMIjAnicrVJbSBRRGN61TLKCQF8yKRwICsTOmftZaIPSiG5UREIZy5wz/9igzWwz
-s5ptdqMiyQqj6LYvKRLRQ8lKpiVa9JRR+JKEYIR0e+i6Bd3rjNVbj52Xn/Of7/vO
-93/8d2ZMihRGB/2a5rd1xbOiQ7cyqcimz/1FaYG6ZpMQSwt1MFGg3gQ/SNTZphAT
-EEZYsVQkKRRU0QBiyTphwAxdAt1kmm4gQihlhBDT0pAsazKYso4xUUQVm6qkMREZ
-Qrlg2U4teEnPdoJQVgewiKwig0oMKYYuMpHJFCxLlzHihcgKlkWJE7e6fsjg5qjh
-Q4Xt8h6/JCbs/QP/n32nfsuBLCugIiYSpmGTMIubRZQpCjE5noRAHzzH2AYczaA+
-BUJzucBbDTaDMNVwjD/PjY2NFUkjAL/Odgy/qYK52zg/6bmBy9x6DtgaBEk/FgoE
-TckJBtDEH60EtR2TZ8kZDeD5tusIMcyRLLBDccztS1iVkFYuwI6k7UHCDhGKpuqI
-n/AfaAiTUxDSGDKIRCgmqkx1ynSF6iIBYKJuMKojTEDmqTIdZEnSQGcGRVQxMY+B
-CuF02x1XiImY+zRquaZv1zpGkPL47LcHayZHooWRKfl54ZJFCqfO/Lt6i1HBz3Uj
-pU9Tx8rGR0dzTtWh6L2ex493FaU3Dh5afsM90PJhxsi3Pe3512H28IFq3NzVXeqa
-L5f2farM4OkPt6Be8cu11ufN1WcezVryI6Gke55kzo3evTw0dqXrZAmTmgbGoxdy
-33fW5HZnOvq6k1fQSNvAW7s4P7f/1cX2o9utFZ2r4l8LXoxN64p3rck7fwIWlHzc
-cDd3vzPbUDBnwdpp84/k9w1n93rH5+57ES+fdGtR5fRLRZmxluj77ODA+rJ5VQ+H
-Tr3JPCtZ1x8ZLn6XXX1w7+u+1u4P2d7c2pWFR/d9jmvpszVVV2+WXPYXeuMdXx7s
-fDrbTRe0bW477C4bO/0I4sIviqRKCg==
-=QyRN
+yMK5AnicrVNdaB1FGL1pm7bGxFasRilaWUsNNo07szOzM7EvgiBCWkxbFGnkOj/f
+JMv92dvdTW5vY0yEFhR/aluVlgp9kPgDvlhKUdpC0koTqAoBtRZRW1EfEtRoXopU
+cDZWBPHReRlm55zzne98Ox+1LS20NE2kfSPzpTV3NF04Wx8s7Nw4dtuwp2LT8LqH
+vRIsblA2kGbFUmS8bs9HPqKW+QFVwLAEYQkXGrTkAXCjQy59IZTSQghjQ5+QkIAh
+HCFBMUOGBaHGvvQ6PRtV+yGpJVE1y2U5gBWE+VIF2qeSY401UWAtJ8h3myAUERw4
+4kCc5gxnTskUuqLYfXOH4qK9/8D/z74H/5IDQigwX2OhQ2SEts6srzSlwji8yIEp
+JFVZAYfWUB4Eb6TTq0BSKkMxieMsT1ZnUX6PKBY0DIlgrjuZDhQrkElHA4IxJpYg
+qyRiEEoqlbIKGewIllmimZIWSUJAceCKhjhkIF33iBsC2plIYVc19roDhDjl3DlI
+YCguQV48jfpdZqnXvdNTWiKtJJNSGCM4FxhRFIbMF8oHRQTBiikrAhxiwwyAwKBc
+WEz5xFVnzLfekyN5sWQo0ovi+ZCuN1+v17sgLUVVmTa6dFxxrmpJnMU6LrvbgSyr
+pd15NlmjtggHVbwuVFRR1bjfxDGGIEmjuOqycsh/x0Y6PdhdixIoRjmChoz7buV1
+YMhJYsYVSIM0pyLgPuH5MImLNGAyDLgJVcis0AFxrWok/dCAVFgqZhHWVPj/5Iix
+8yn7naZLryqzwcSN9exE37JCU0thefOS/P0UWm5Y/ferKvSsuNa64kLH3qfnfyz3
+/vTpuVWY7Z99qZ2WxZFdpeHj1Ycme9rG2FdvTK0/OWDmXltXWrv00VUza07XZ9ee
+uOu5k2ea35z50j579ITX9/63L+75bPTVsYWDmx7Zv7LRfvWbvRNHrsh7nvj+9Yd/
+65/pmWzf9pi6dceG6U0vrD/aSudHT238eeXWm9nt52c/GJcd8Z1Ljm9unvv44ta7
+D06tO/DuFy/3hpuf+bV1Q+PcqcOfe9F9F88vw9c++fCd4iUjx7e3XZpseW/bH5f3
+PX/L470PFoItW+r1m37/rtI5+/VTC7/cuG9qR/LDzPSeM1ePvbIQ7L6/B41PrvY6
++PTy7fbKA2338tG5y4d7Dx06/faBt/4EQG59ig==
+=NxuZ
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -66,4 +79,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/celue
 
 ==================================================================
-
