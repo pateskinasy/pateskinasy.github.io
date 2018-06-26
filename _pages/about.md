@@ -16,7 +16,7 @@ classes: wide
 author_profile: true  
 ---
 
-Hi, I'm Pat Eskinasy.
+Hi, I'm Pat.
 
 On this site, you’ll find my writings on some of my favourite things:
 
