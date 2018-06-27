@@ -58,6 +58,11 @@
     line-height: 1.5;
   }
 
+  img.emoji {
+       width: 20px;
+       height: 20px;
+    }
+
   img {
     width: 100%;
   }
@@ -75,6 +80,7 @@
     padding-left: 1em;
     z-index: 10;
     
+
     &.sticky {
       @include clearfix();
       position: -webkit-sticky;
