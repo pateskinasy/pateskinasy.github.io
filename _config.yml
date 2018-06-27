@@ -100,7 +100,7 @@ author:
   name             : "Pat Eskinasy"
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Now: Own project, Then: B2B deep tech | Engineer | Economist | 🌱"
-  location         : " 🇬🇧  🇸🇪  🇧🇷 "
+  location         : " :gb:  🇸🇪  🇧🇷 "
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -209,6 +209,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - gemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -217,6 +218,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - gemoji
 
 
 # Archives
