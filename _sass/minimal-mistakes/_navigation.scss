@@ -332,7 +332,7 @@
     display: none;
   }
 
-  @include breakpoint(max-width ($large - 1px)) {
+  @include breakpoint(max-width($large - 1px)) {
     label {
       position: relative;
       display: inline-block;
