@@ -318,3 +318,31 @@
     font-size: 1em;
   }
 }
+
+ Wide Pages
+
+   ========================================================================== */
+
+
+
+  .wide {
+
+  .archive {
+
+    @include breakpoint($large) {
+
+      padding-right: 0;
+
+    }
+
+
+
+    @include breakpoint($x-large) {
+
+      padding-right: 0;
+
+    }
+
+  }
+
+}
