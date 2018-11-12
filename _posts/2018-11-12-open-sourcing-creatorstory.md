@@ -1,7 +1,7 @@
 ---
 title: "Open-sourcing creatorstory"
 date: 2018-11-12
-excerpt: creatorstory code on Github
+excerpt: creatorstory code on GitHub
 #last_modified_at: 2018-04-04
 categories:
   - creatorstory
