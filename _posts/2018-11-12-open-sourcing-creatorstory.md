@@ -39,6 +39,4 @@ The tech-stack is:
 * Mailchimp
 
 <p class="notice">
-  _This comes with a disclaimer, though: the project is unmaintained and Meteor.js has moved on substantially since I've had the creatorstory in production. 
-_
-</p>
+_This comes with a disclaimer, though: the project is unmaintained and Meteor.js has moved on substantially since I've had creatorstory in production._</p>
