@@ -21,7 +21,7 @@ header:
   teaser: /assets/images/post_images/creatorstory.PNG
 published: true
 ---
-It's been some time now since creatorstory has been sunset.
+It's been some time since creatorstory has been sunset.
 
 I've learned immensely from the wonderful journey that happens in the creation and ending of a new product (wrote a few words about it on [This is NOT a startup post-mortem](https://www.eskinasy.com/hen/not-startup-post-mortem/ "NOT a startup post-mortem")). The biggest learning, however, was more personal: I've learned that I could be resourceful beyond what my skills limit me.
 
