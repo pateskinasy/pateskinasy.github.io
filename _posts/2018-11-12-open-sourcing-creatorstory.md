@@ -32,7 +32,7 @@ So, in the hope that the code might come useful to a resourceful one out there. 
 
 You can find it on Github: [creatorstory on GitHub](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
 
-The product can be specially interesting if videos are important for the interest group. There is also a forum in the product, so topical discussions can be facilitated. Browser notifications, transactional email notifications & integration with Mailchimp for campaigns and Newsletters are also implemented.
+The product can be specially interesting if videos are important for the interest group. There is also a forum in the product, so topical discussions can be facilitated. Browser notifications, transactional email notifications & integration with Mailchimp for campaigns and newsletters are also implemented.
 
 creatorstory was a heavily customized Telescope (Meteor.Js) app that was used by members of the creatorstory community to curate videos posted by other members of the community and to discuss in a forum-like space.
 
