@@ -9,6 +9,6 @@ Stack is:
 - Wufoo
 - Mailchimp
 - Upscri.be
-- Proze.io
+- Prose.io
 - Google Analytics
 - Font Awesome
