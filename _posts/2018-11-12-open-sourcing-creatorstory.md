@@ -41,6 +41,8 @@ The tech-stack is:
 * Telescope
 * Meteor.js
 * MongoDB
+* Compose.io
+* Cloudinary
 * Embedly
 * Azure
 * Mailchimp
