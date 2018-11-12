@@ -1,6 +1,7 @@
 ---
-date: {}
-excerpt: Open-sourcing creatorstory
+title: "Open-sourcing creatorstory"
+date: 2018-11-12
+excerpt: creatorstory code on Github
 categories:
   - creatorstory
 tags:
