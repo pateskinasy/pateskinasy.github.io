@@ -1,5 +1,5 @@
 ---
-date: 2018-11-12T00:00:00.000Z
+date: {}
 excerpt: Open-sourcing creatorstory
 categories:
   - creatorstory
@@ -13,9 +13,8 @@ classes: wide
 header:
   overlay_filter: 0.25
   teaser: /assets/images/post_images/creatorstory.png
+published: true
 ---
-## Open sourcing creatorstory
-
 creatorstory has been sunset for some time now. 
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.png" alt="" class="align-center" /></p>
@@ -43,4 +42,3 @@ The tech-stack is:
   _This comes with a disclaimer, though: the project is unmaintained and Meteor.js has moved on substantially since I've had the creatorstory in production. 
 _
 </p>
-
