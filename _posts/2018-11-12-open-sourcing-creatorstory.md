@@ -2,6 +2,7 @@
 title: "Open-sourcing creatorstory"
 date: 2018-11-12
 excerpt: creatorstory code on Github
+#last_modified_at: 2018-04-04
 categories:
   - creatorstory
 tags:
@@ -12,13 +13,17 @@ comments: true
 share: true
 classes: wide
 header:
+  #overlay_image: /assets/images/writinghabit.jpg
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #cta_label: "More Info"
+  #cta_url: "https://unsplash.com"
   overlay_filter: 0.25
-  teaser: /assets/images/post_images/creatorstory.png
+  teaser: /assets/images/post_images/creatorstory.PNG
 published: true
 ---
 creatorstory has been sunset for some time now. 
 
-<p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.png" alt="" class="align-center" /></p>
+<p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.PNG" alt="" class="align-center" /></p>
 <figcaption>how creatorstory looked like</figcaption>
 
 I've obvioulsy learned immensely from the wonderful journey that happens in the creation and ending of a new product (wrote a few words about it on [This is NOT a startup post-mortem](https://www.eskinasy.com/hen/not-startup-post-mortem/ "NOT a startup post-mortem")). The biggest learning, however, was more personal: I've learned that I could be resourceful beyond what my skills limit me.
