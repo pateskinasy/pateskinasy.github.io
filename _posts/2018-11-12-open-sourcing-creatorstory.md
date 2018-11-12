@@ -24,7 +24,7 @@ published: true
 creatorstory has been sunset for some time now.
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.PNG" alt="" class="align-center" /></p>
-<figcaption>how creatorstory looked like</figcaption>
+<figcaption>How creatorstory looked like</figcaption>
 
 I've learned immensely from the wonderful journey that happens in the creation and ending of a new product (wrote a few words about it on [This is NOT a startup post-mortem](https://www.eskinasy.com/hen/not-startup-post-mortem/ "NOT a startup post-mortem")). The biggest learning, however, was more personal: I've learned that I could be resourceful beyond what my skills limit me.
 
@@ -32,7 +32,7 @@ So, in the hope that the code might come useful to a resourceful one out there. 
 
 You can find it on Github: [creatorstory on GitHub](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
 
-The product can be specially interesting if videos are important for the interest-group. There is also a forum in the product, so topical discussions can be facilitated. Browser-notifications, transactional-email-notifications & integration with Mailchimp for Campaigns and Newsletters also implemented.
+The product can be specially interesting if videos are important for the interest group. There is also a forum in the product, so topical discussions can be facilitated. Browser notifications, transactional email notifications & integration with Mailchimp for campaigns and Newsletters are also implemented.
 
 creatorstory was a heavily customized Telescope (Meteor.Js) app that was used by members of the creatorstory community to curate videos posted by other members of the community and to discuss in a forum-like space.
 
