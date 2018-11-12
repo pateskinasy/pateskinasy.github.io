@@ -30,7 +30,7 @@ I've learned immensely from the wonderful journey that happens in the creation a
 
 So, in the hope that the code might come useful to a resourceful one out there. Someone growing a community and on the lookout for a product that helps them curate crowdsourced member-contributions, I'm open-sourcing the product.
 
-You can find it on Github: [creatorstory on GitHub](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
+You can find it on GitHub: [creatorstory open-source](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
 
 The product can be specially interesting if videos are important for the interest group. There is also a forum in the product, so topical discussions can be facilitated. Browser notifications, transactional email notifications & integration with Mailchimp for campaigns and newsletters are also implemented.
 
