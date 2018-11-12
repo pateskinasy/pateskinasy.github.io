@@ -39,7 +39,7 @@ creatorstory was a heavily customized Telescope (Meteor.Js) app that was used by
 The tech-stack is:
 
 * Telescope
-* Meteor.js
+* MeteorJS
 * MongoDB
 * Compose.io
 * Cloudinary
@@ -49,4 +49,4 @@ The tech-stack is:
 * Mailgun
 
 <p class="notice">
-<i>This comes with a disclaimer, though: the project is unmaintained and Meteor.js has moved on substantially since I've had creatorstory in production.</i></p>
+<i>This comes with a disclaimer, though: the project is unmaintained and MeteorJS has moved on substantially since I've had creatorstory in production.</i></p>
