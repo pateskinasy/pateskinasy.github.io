@@ -27,7 +27,7 @@ I've learned immensely from the wonderful journey that happens in the creation a
 
 You can find it on GitHub: [creatorstory open-source](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
 
-So, in the hope that the code might come useful to a resourceful one out there. Someone growing a community and on the lookout for a product that helps them curate crowdsourced member-contributions, I'm open-sourcing the product.
+So, in the hope that the code might come useful to a resourceful one out there, someone growing a community and on the lookout for a product that helps them curate crowdsourced member-contributions, I'm open-sourcing the product.
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.PNG" alt="" class="align-center" /></p>
 <figcaption>How creatorstory looked like</figcaption>
