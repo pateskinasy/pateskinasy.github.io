@@ -25,9 +25,9 @@ It's been some time since creatorstory has been sunset.
 
 I've learned immensely from the wonderful journey that happens in the creation and ending of a new product (wrote a few words about it on [This is NOT a startup post-mortem](https://www.eskinasy.com/hen/not-startup-post-mortem/ "NOT a startup post-mortem")). The biggest learning, however, was more personal: I've learned that I could be resourceful beyond what my skills limit me.
 
-You can find it on GitHub: [creatorstory open-source](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
-
 So, in the hope that the code might come useful to a resourceful one out there, someone growing a community and on the lookout for a product that helps them curate crowdsourced member-contributions, I'm open-sourcing the product.
+
+You can find it on GitHub: [creatorstory open-source](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.PNG" alt="" class="align-center" /></p>
 <figcaption>How creatorstory looked like</figcaption>
