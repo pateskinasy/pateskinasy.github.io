@@ -49,4 +49,4 @@ The tech-stack is:
 * Mailgun
 
 <p class="notice">
-<b><i>This comes with a disclaimer, though: the project is unmaintained and MeteorJS has moved on substantially since I've had creatorstory in production.</i></b></p>
+<b><i>This comes with a disclaimer, though: the creatorstory project is unmaintained and MeteorJS has moved on substantially since I've had creatorstory in production.</i></b></p>
