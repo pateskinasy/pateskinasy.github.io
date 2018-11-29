@@ -30,7 +30,7 @@ So, in the hope that the code might come useful to a resourceful one out there, 
 You can find it on GitHub: [creatorstory open-source](https://github.com/creatorstory/creatorstory-app "creatorstory open source")
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/creatorstory.PNG" alt="" class="align-center" /></p>
-<figcaption>How creatorstory looked like</figcaption>
+<figcaption>What creatorstory looked like</figcaption>
 
 The product can be specially interesting if videos are important for the interest group. There is also a forum in the product, so topical discussions can be facilitated. User management, browser notifications, transactional email notifications & integration with Mailchimp for campaigns and newsletters are also implemented.
 
