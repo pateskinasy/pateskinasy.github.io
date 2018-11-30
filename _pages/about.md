@@ -28,11 +28,11 @@ You can also find me on [Twitter](https://twitter.com/celue), [Medium](https://m
 
 The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, drop a note [here](/contact).
 
-I'm now busy with own project (in stealth). Most recently [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
+I'm now busy with own projects. Most recently [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
 Then: A fifteen years' career in B2B deep tech across 4 continents.
 
-I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an Engineer and Economist, I became fascinated by decentralization and federation (I know...soo predictable. And yes, I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
+I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an Engineer and Economist, I predictably became fascinated by decentralization and federation (So yes, I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
 
 Otherwise, you'll find me with ∞ tabs open in my browser, eating 🌱 food, doing yoga, jogging or enjoying the outdoors.
 
