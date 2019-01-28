@@ -36,7 +36,7 @@ Then: A fifteen years' career of global technology and business experience at bo
 
 I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an **Engineer** and **Economist**, I predictably (yes, I know...) became fascinated by decentralization and federation (i.e., I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
 
-Otherwise, you'll find me with ∞ tabs open in my browser, eating 🌱 food, doing yoga, jogging or enjoying the outdoors.
+Otherwise, you'll find me with ∞ tabs open in my browser, eating 🌱 food, practicing yoga, jogging or enjoying the outdoors.
 
 <!--
 <lastBuildDate>
