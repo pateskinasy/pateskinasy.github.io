@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Pat Eskinasy"
-  avatar           : "hhttps://ik.imagekit.io/214u6evjbiyb9/image1__1__HJ1gMcnXV.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://ik.imagekit.io/214u6evjbiyb9/image1__1__HJ1gMcnXV.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Now: Own project, Then: B2B deep tech | Engineer | Economist | 🌱"
   location         : " :gb:  :sweden:  :brazil: "
   email            :
