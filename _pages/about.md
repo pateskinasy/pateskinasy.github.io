@@ -32,7 +32,7 @@ The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwis
 
 I'm now busy with own projects. Most recently [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
-Then: A fifteen years' career of global technology and business experience at both multinational organizations and startups across 4 continents (including **Taiwan, South Africa, Brazil, Finland, Sweden and United Kingdom**).
+Past: A fifteen years' career of global technology and business experience at both multinational organizations and startups across 4 continents (including **Taiwan, South Africa, Brazil, Finland, Sweden and United Kingdom**).
 
 I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an **Engineer** and **Economist**, I predictably (yes, I know...) became fascinated by decentralization and federation (i.e., I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
 
