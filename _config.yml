@@ -279,7 +279,7 @@ defaults:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://eskinasy.com'
+  siteurl: 'https://www.eskinasy.com'
   relativeLinks: #''
   media: '/assets/images/post_images/'
   ignore:
