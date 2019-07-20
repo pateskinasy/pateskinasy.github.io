@@ -29,12 +29,21 @@
   }
 
   /* button colors */
-  $buttoncolors: (primary, $primary-color), (inverse, #fff),
-    (light-outline, transparent), (success, $success-color),
-    (warning, $warning-color), (danger, $danger-color), (info, $info-color),
-    (facebook, $facebook-color), (twitter, $twitter-color),
-    (google-plus, $google-plus-color), (linkedin, $linkedin-color),
-    (medium, $medium-color), (reddit, $reddit-color);
+  $buttoncolors:
+  (primary, $primary-color),
+  (inverse, #fff),
+  (light-outline, transparent),
+  (success, $success-color),
+  (warning, $warning-color),
+  (danger, $danger-color),
+  (info, $info-color),
+  (facebook, $facebook-color),
+  (twitter, $twitter-color),
+  (google-plus, $google-plus-color),
+  (linkedin, $linkedin-color),
+  (medium, $medium-color),
+  (reddit, $reddit-color);
+
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -90,6 +99,7 @@
     font-size: $type-size-7;
   }
 }
+<<<<<<< HEAD
 
 // #tagby {
 //   float: bottom;
@@ -113,3 +123,5 @@
 //   height: 30px;
 //   border-radius: 15px;
 // }
+=======
+>>>>>>> parent of 158cd4b2... adding tagby to all pages
