@@ -269,6 +269,7 @@ defaults:
       comments: true
       share: true
       related: true
+      tagby: true
   # _pages
   - scope:
       path: _pages
@@ -276,6 +277,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      tagby: true
 
 prose:
   rooturl: '_posts'
