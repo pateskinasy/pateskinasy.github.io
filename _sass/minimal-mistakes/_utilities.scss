@@ -104,6 +104,23 @@ body:hover .visually-hidden button {
 }
 
 /*
+   Task lists
+   ========================================================================== */
+
+.task-list {
+  padding: 0;
+
+  li {
+    list-style-type: none;
+  }
+
+  .task-list-item-checkbox {
+    margin-right: 0.5em;
+    opacity: 1;
+  }
+}
+
+/*
    Alignment
    ========================================================================== */
 
@@ -221,13 +238,11 @@ body:hover .visually-hidden button {
   .fa-github,
   .fa-github-alt,
   .fa-github-square {
-    color: #262626;
+    color: $github-color;
   }
 
-  .fa-google-plus,
-  .fa-google-plus-square,
-  .fa-google-plus-g {
-    color: $google-plus-color;
+  .fa-gitlab {
+    color: $gitlab-color;
   }
 
   .fa-instagram {
@@ -244,10 +259,19 @@ body:hover .visually-hidden button {
     color: #262626;
   }
 
+  .fa-mastodon,
+  .fa-mastodon-square {
+    color: $mastodon-color;
+  }
+
   .fa-pinterest,
   .fa-pinterest-p,
   .fa-pinterest-square {
     color: $pinterest-color;
+  }
+
+  .fa-reddit {
+    color: $reddit-color;
   }
 
   .fa-rss,
@@ -354,6 +378,20 @@ body:hover .visually-hidden button {
   &:after {
     -webkit-transform: rotate3d(0, 0, 1, -45deg);
     transform: rotate3d(0, 0, 1, -45deg);
+  }
+}
+
+.greedy-nav__toggle:hover {
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    background: mix(#000, $primary-color, 25%);
+  }
+
+  &.close {
+    .navicon {
+      background: transparent;
+    }
   }
 }
 
@@ -524,9 +562,9 @@ a.reversefootnote {
 }
 
 .byline-item {
-    white-space: nowrap;
+  white-space: nowrap;
 
-    &:not(:first-child) {
-       margin-left: 1.5rem;
-     }
-   }
+  &:not(:first-child) {
+    margin-left: 1.5rem;
+  }
+}

@@ -1,7 +1,14 @@
 <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
 -->
+{% if author.newsletter %}
+<li>
+  <a href="https://upscri.be/{{ author.newsletter }}" itemprop="sameAs" rel="nofollow noopener" target="_blank">
+    <i class="far fa-newspaper" aria-hidden="true"></i> Newsletter
+  </a>
+</li>
+{% endif %}

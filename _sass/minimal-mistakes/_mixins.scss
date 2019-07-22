@@ -4,9 +4,9 @@
 
 %tab-focus {
   /* Default*/
-  outline: thin dotted $warning-color;
+  outline: thin dotted $focus-color;
   /* Webkit*/
-  outline: 5px auto $warning-color;
+  outline: 5px auto $focus-color;
   outline-offset: -2px;
 }
 
@@ -17,7 +17,6 @@
 @function em($target, $context: $doc-font-size) {
   @return ($target / $context) * 1em;
 }
-
 
 /*
    Bourbon clearfix
@@ -57,17 +56,16 @@
    https://github.com/easy-designs/yiq-color-contrast
    ========================================================================== */
 
-@function yiq-is-light(
-  $color,
-  $threshold: $yiq-contrasted-threshold
-) {
+@function yiq-is-light($color, $threshold: $yiq-contrasted-threshold) {
   $red: red($color);
   $green: green($color);
   $blue: blue($color);
 
-  $yiq: (($red*299)+($green*587)+($blue*114))/1000;
+  $yiq: (($red * 299)+ ($green * 587)+ ($blue * 114))/1000;
 
-  @if $yiq-debug { @debug $yiq, $threshold; }
+  @if $yiq-debug {
+    @debug $yiq, $threshold;
+  }
 
   @return if($yiq >= $threshold, true, false);
 }
@@ -78,7 +76,11 @@
   $light: $yiq-contrasted-light-default,
   $threshold: $yiq-contrasted-threshold
 ) {
-  @return if(yiq-is-light($color, $threshold), $yiq-contrasted-dark-default, $yiq-contrasted-light-default);
+  @return if(
+    yiq-is-light($color, $threshold),
+    $yiq-contrasted-dark-default,
+    $yiq-contrasted-light-default
+  );
 }
 
 @mixin yiq-contrasted(

@@ -33,8 +33,8 @@
     (light-outline, transparent), (success, $success-color),
     (warning, $warning-color), (danger, $danger-color), (info, $info-color),
     (facebook, $facebook-color), (twitter, $twitter-color),
-    (google-plus, $google-plus-color), (linkedin, $linkedin-color),
-    (medium, $medium-color), (reddit, $reddit-color);
+    (linkedin, $linkedin-color), (medium, $medium-color),
+    (reddit, $reddit-color);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -46,12 +46,12 @@
         border: 1px solid #fff;
       }
 
-      &:hover {
-        @include yiq-contrasted(mix(#000, $color, 20%));
-      }
-
       &:visited {
         @include yiq-contrasted($color);
+      }
+
+      &:hover {
+        @include yiq-contrasted(mix(#000, $color, 20%));
       }
     }
   }

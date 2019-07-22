@@ -1,38 +1,21 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% comment %}
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-    {% endcomment %}
 
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer" target="_blank"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
     {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://www.facebook.com/{{ site.facebook.username }}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.linkedin %}
-      <li><a href="https://linkedin.com/in/{{ site.author.linkedin }}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> Linkedin</a></li>
-    {% endif %}
-    {% if site.author.medium %}
-      <li><a href="https://medium.com/@{{ site.author.medium }}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.gitlab %}
-      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.author.newsletter %}
-      <li><a href="https://upscri.be/{{ site.author.newsletter }}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="far fa-newspaper" aria-hidden="true"></i> Newsletter</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" itemprop="sameAs" rel="nofollow noopener" target="_blank"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2016-{{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All Rights Reserved.</div> 
+<div class="page__footer-copyright">&copy; 2016-{{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. All Rights Reserved.</div>
 <div class="page__footer-copyright"> I've open sourced this site on GitHub. Patches, suggestions and comments are welcome. &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp; <a href=/legal>Legal</a> &nbsp;&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;&nbsp; <a href=/contact>Contact</a> </div>
+

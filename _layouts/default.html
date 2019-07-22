@@ -1,7 +1,4 @@
----
----
-
-<!--
+<!-- 
 __   __  ___     _______  __   __  _______  ______    _______  __
 |  | |  ||   |   |       ||  | |  ||       ||    _ |  |       ||  |
 |  |_|  ||   |   |_     _||  |_|  ||    ___||   | ||  |    ___||  |
@@ -22,9 +19,9 @@ __   __  ___     _______  __   __  _______  ______    _______  __
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
 
     <div class="initial-content">
       {{ content }}
@@ -32,14 +29,14 @@ __   __  ___     _______  __   __  _______  ______    _______  __
 
     {% if site.search == true %}
       <div class="search-content">
-        {% include search/search_form.html %}
+        {% include_cached search/search_form.html %}
       </div>
     {% endif %}
 
-    <div class="page__footer">
+    <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
-        {% include footer.html %}
+        {% include_cached footer.html %}
       </footer>
     </div>
 

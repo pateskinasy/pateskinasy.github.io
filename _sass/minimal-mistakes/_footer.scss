@@ -62,8 +62,10 @@
     border-bottom-style: dotted;
     border-bottom-color: initial;
     text-decoration: none;
-    -moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+    -moz-transition: color 0.2s ease-in-out,
+      border-bottom-color 0.2s ease-in-out;
+    -webkit-transition: color 0.2s ease-in-out,
+      border-bottom-color 0.2s ease-in-out;
     -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
     transition: color 0.2s ease-out, border-bottom-color 0.2s ease-in-out;
 
@@ -104,5 +106,5 @@
     a {
       white-space: nowrap;
     }
-   }
+  }
 }
