@@ -11,7 +11,7 @@ tags:
 author_profile: true
 comments: true
 share: true
-featured: false
+featured: true
 classes: wide
 header:
     #overlay_image: /assets/images/writinghabit.jpg
