@@ -1,17 +1,6 @@
 ---
 title: "Open-sourcing creatorstory"
-date: 2018-11-12
 excerpt: creatorstory code on GitHub
-#last_modified_at: 2018-04-04
-categories:
-  - creatorstory
-tags:
-  - Open-Source
-  - Opportunities
-author_profile: true
-comments: true
-share: true
-classes: wide
 header:
   #overlay_image: /assets/images/writinghabit.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -19,6 +8,17 @@ header:
   #cta_url: "https://unsplash.com"
   overlay_filter: 0.25
   teaser: /assets/images/post_images/creatorstory.PNG
+categories:
+  - creatorstory
+tags:
+  - Open-Source
+  - Opportunities
+date: 2018-11-12
+#last_modified_at: 2018-04-04  
+author_profile: true
+comments: true
+share: true
+classes: wide
 published: true
 ---
 It's been some time since creatorstory has been sunset.

@@ -1,18 +1,6 @@
 ---
 title: "This is NOT a startup post-mortem"
-date: 2016-08-15
-#last_modified_at: 2018-04-04
 excerpt: "Why we're building Hen"
-categories:
-  - Hen
-tags:
-  - Pivot
-  - Opportunities
-author_profile: true
-comments: true
-share: true
-featured: false
-classes: wide
 header:
     #overlay_image: /assets/images/writinghabit.jpg
     #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -20,6 +8,18 @@ header:
     #cta_url: "https://unsplash.com"
     overlay_filter: 0.25
     teaser: /assets/images/post_images/taiwan.png
+categories:
+  - Hen
+tags:
+  - Pivot
+  - Opportunities
+date: 2016-08-15
+#last_modified_at: 2018-04-04  
+author_profile: true
+comments: true
+share: true
+featured: false
+classes: wide
 ---
 
 _TL;DR_
