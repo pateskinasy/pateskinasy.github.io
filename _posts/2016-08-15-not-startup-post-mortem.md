@@ -92,7 +92,7 @@ We’ve managed to achieve healthy engagement metrics with the platform and over
 
 However, we did not succeed in making the referrals circulate. The interest groups were too non-homogeneous, and were not enabling collaboration. New features were needed.
 
-Another way of looking at our learnings: I like the analogies made by the Point Nine Capital’s team on [how to build a $100 million business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.rt9qbv62l). Here’s the drill:
+Another way of looking at our learnings: I like the analogies made by the Point Nine Capital’s team on [how to build a $100 million business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.rt9qbv62l?ref=eskinasy.com). Here’s the drill:
 
 1. It was clear we were not on the right track to make 100,000 small businesses pay us $1k per year each
 2. This wasn’t a consumer play either, so making 1 million consumers pay us $100 per year each also wasn’t an option
