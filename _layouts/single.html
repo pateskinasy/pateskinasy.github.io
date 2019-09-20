@@ -73,8 +73,9 @@ layout: default
         {% endif %}
       </section>
 
-      <iframe style="height:420px;width:100%;max-width:800px;margin:0px auto;" src="https://upscri.be/611534?as_embed"
-        frameborder="0"></iframe>
+      {% if page.newsletter == true %}
+      {% include newsletter-frame.html %}
+      {% endif %}
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
