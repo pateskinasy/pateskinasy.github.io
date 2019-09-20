@@ -13,7 +13,8 @@ title: "Newsletter"
 #excerpt: "About Pat Eskinasy"
 share: true
 classes: wide
-author_profile: true  
+author_profile: true
+newsletter: false  
 ---
 
 <!-- Begin Mailchimp Signup Form -->
