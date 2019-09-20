@@ -1,3 +1,21 @@
+---
+permalink: /newsletter/
+layout: single
+title: "Newsletter"
+# header:
+# overlay_image: /assets/images/interface.jpg
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  #cta_label: "More Info"
+  #cta_url: "https://unsplash.com"
+  #overlay_filter: 0.25
+# show_overlay_title: true
+#show_overlay_excerpt: true
+#excerpt: "About Pat Eskinasy"
+share: true
+classes: wide
+author_profile: true  
+---
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
