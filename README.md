@@ -14,4 +14,4 @@ Stack is:
 - Google Analytics
 - Font Awesome
 
-<a href="https://www.buymeacoffee.com/experienceconomy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" width: 217px !important; ></a>
+<a href="https://www.buymeacoffee.com/experienceconomy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" width=217px ></a>
