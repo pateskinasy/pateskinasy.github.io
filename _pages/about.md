@@ -32,7 +32,7 @@ The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwis
 
 I'm now busy with own projects. Most recently [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
-Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href="https://www.experienceconomy.com/consulting" onclick="getOutboundLink('https://www.experienceconomy.com/consulting'); return false;">advisory services</a>
+Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href="https://www.experienceconomy.com/consulting" onclick="getOutboundLink('https://www.experienceconomy.com/consulting'); return false;">advisory services.</a>
 
 Past: A fifteen years' career of global technology and business experience at both multinational organizations and startups across 4 continents (including **Taiwan, South Africa, Brazil, Finland, Sweden and United Kingdom**).
 
