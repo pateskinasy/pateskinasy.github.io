@@ -91,6 +91,6 @@ There is no convincing 4th way out of this.
 
 If this isn't for you, sharing this forward in your network will be of great help (here comes a [Twitter thread](https://twitter.com/FocusFork/status/1248246513106423817) on it as well).
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Need your input: A new COVID-19 project focused on repurposing and reallocation to get us out of this.<br><br>This project has been ongoing for over a week and time was spent learning as much as possible and thinking about the ways that can help us out of the current situation: <a href="https://t.co/z9nrNVWjZL">pic.twitter.com/z9nrNVWjZL</a></p>&mdash; Focus Fork (@FocusFork) <a href="https://twitter.com/FocusFork/status/1248246513106423817?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I’ve received 592 messages with unique COVID-19 “asks” and “offers” from members of the professional networks I’m part of since 1st of January, 2020.</p>&mdash; Pat Eskinasy 👩🏻‍💻🌳 (@celue) <a href="https://twitter.com/celue/status/1249679815780769793?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Keep safe!
