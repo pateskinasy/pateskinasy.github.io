@@ -32,10 +32,10 @@ The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwis
 
 I'm now busy with own projects. Most recently [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
-Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href="https://www.experienceconomy.com/consulting" onclick="getOutboundLink('https://www.experienceconomy.com/consulting'); return false;">advisory services.</a>
+Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href="https://www.experienceconomy.com/consulting" target="_blank">advisory services.</a>
 
 If you’d like to support me or found any of what I make (and do) useful, you can show your appreciation and motivate me to make (and do) more. I accept Bitcoin: [`1CWtesfGK1Rtp2ginrRCLLbTbfo8bKPnto`](/assets/images/qrpat.gif) and <a href="https://www.experienceconomy.com/consulting#linkable"
-    title="PayPal" target="_blank" onclick="getOutboundLink('https://www.experienceconomy.com/consulting#linkable'); return false;"> among others, coffees ☕.</a>
+    title="PayPal" target="_blank"> among others, coffees ☕.</a>
 
 Past: A fifteen years' career of global technology and business experience at both multinational organizations and startups across 4 continents (including **Taiwan, South Africa, Brazil, Finland, Sweden and United Kingdom**).
 
