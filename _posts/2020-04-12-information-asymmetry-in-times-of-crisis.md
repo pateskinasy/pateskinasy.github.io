@@ -37,7 +37,7 @@ In the COVID-19 crisis, information asymmetry stems from something different. In
 
 * If my company produced X, I may now be forced to produce Y to continue trading. I thus need to reorganise my supply chain. I need new suppliers, new logistics, new sales channels.  
 * If I run a biotech startup, I may need to pivot in the short term to try and create a COVID-19 treatment. I may need funding to enable the pivot, ASAP.
-* If I run a tech company, I may want to provide paid reskilling opportunities to those that have lost their jobs in the service sector (and others sectors) to help support larger segments of the community my businesss is part of.
+* If I run a tech company, I may want to provide paid reskilling opportunities to those that have lost their jobs in the service sector (and others sectors) to help support larger segments of the community my business is part of.
 * If I am the principal of a family office, I may want to re-allocate capital to fighting COVID-19.
 * If I had to stop manufacturing, given the non-essential nature of my business, I may want to enter a partnership and have another business take over the spare capacity in my factories.
 
