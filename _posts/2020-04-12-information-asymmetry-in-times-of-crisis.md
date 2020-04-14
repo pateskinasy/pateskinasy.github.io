@@ -75,6 +75,8 @@ There is no convincing 4th way out of this.
 
 ## **So, as I gather input for [Focus Fork](http://focusfork.com/), the request is:**
 
+(independently of where in the world you are located)
+
 1. Several organizations have been selling or donating essential equipment, materials, services, test kits and design packages/out-licensing. **Should you want to list your organization's resources**, please enter your details into [Resources](https://bit.ly/resources_info_gathering_focus_fork). Please also enter your details into [Resources](https://bit.ly/resources_info_gathering_focus_fork), should you be looking for suppliers/providers of essential resources.
 
 2. Several tech companies are offering paid remote apprenticeship jobs to people outside tech. **Should you also want to list apprenticeship opportunities**, please enter your details into [Apprenticeships](https://bit.ly/apprenticeships_info_gathering_focus_fork). Same for potential apprenticeship applicants, please also enter your details into [Apprenticeships](https://bit.ly/apprenticeships_info_gathering_focus_fork).
