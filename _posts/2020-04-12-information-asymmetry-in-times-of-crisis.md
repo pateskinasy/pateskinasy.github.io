@@ -75,7 +75,7 @@ There is no convincing 4th way out of this.
 
 ## **So, as I gather input for [Focus Fork](http://focusfork.com/), the request is:**
 
-(independently of where in the world you are located)
+(input is welcome from all corners of the world)
 
 <ol>
 <li> Several organizations have been selling or donating essential equipment, materials, services, test kits and design packages/out-licensing. <strong>Should you want to list your organization's resources</strong>, please enter your details into <a href="https://bit.ly/resources_info_gathering_focus_fork">Resources</a>.</li>
