@@ -61,6 +61,9 @@ In a crisis, specially a global crisis like this one, structured information is 
 
 This is why I've set a project ([Focus Fork](http://focusfork.com/)), out of passion, to help out with the current crisis. Additionally, I've also developed a platform and am now gathering input to maximize impact ahead of launching it.
 
+<p><img src="{{site.baseurl}}/assets/images/post_images/focus_fork_platform.png" alt="" class="align-center" /></p>
+<figcaption>Focus Fork Platform</figcaption>
+
 *Simplified Project Thesis*: Efforts to produce more ventilators or PPE are obviously necessary, but to move us forward, some of us are willing to invest time, effort or money in what might get us out of the current situation.
 
 So, there are essentially 3 ways out of this:
