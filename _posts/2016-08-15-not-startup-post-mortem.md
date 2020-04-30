@@ -20,6 +20,7 @@ comments: true
 share: true
 featured: false
 classes: wide
+newsletter: true
 ---
 
 _TL;DR_

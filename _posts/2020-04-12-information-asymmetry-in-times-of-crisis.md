@@ -20,6 +20,8 @@ comments: true
 share: true
 classes: wide
 published: true
+newsletter: true
+
 ---
 
 I've received 592 messages with unique COVID-19 "asks" and "offers" from members of the professional networks I'm part of since 1st of January, 2020. These messages were posted by business leaders (and owners) and many involved global multi-million dollar deals. Other messages involved significant charitable drive.

@@ -308,6 +308,7 @@ defaults:
       share: true
       related: true
       tagby: true
+      newsletter: true
   - scope:
       path: ""
       type: pages

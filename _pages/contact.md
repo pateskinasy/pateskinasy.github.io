@@ -5,7 +5,8 @@ title: "Contact"
 excerpt: "Ways to contact Pat Eskinasy."
 share: false
 classes: wide
-author_profile: true  
+author_profile: true
+newsletter: true  
 ---
 
 The best way to contact me is [via Twitter](https://twitter.com/celue).

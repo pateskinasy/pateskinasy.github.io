@@ -14,6 +14,7 @@ show_overlay_title: true
 share: false
 classes: wide
 author_profile: true  
+newsletter: true
 ---
 
 Hi, Hej, Olá,

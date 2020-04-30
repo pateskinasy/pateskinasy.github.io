@@ -20,6 +20,8 @@ comments: true
 share: true
 classes: wide
 published: true
+newsletter: true
+
 ---
 It's been some time since creatorstory has been sunset.
 

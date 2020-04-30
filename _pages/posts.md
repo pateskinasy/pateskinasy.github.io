@@ -8,7 +8,7 @@ introduction: *excerpt
 pagination:
   enabled: true
   category: posts
-author_profile: true  
+author_profile: true
 ---
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
 {% for year in postsByYear %}
