@@ -6,7 +6,6 @@ excerpt: "Ways to contact Pat Eskinasy."
 share: false
 classes: wide
 author_profile: true
-newsletter: true  
 ---
 
 The best way to contact me is [via Twitter](https://twitter.com/celue).
@@ -51,3 +50,6 @@ You should join my (infrequent) email [Newsletter](https://upscri.be/611534) for
     <input type="hidden" id="idstamp" name="idstamp" value="TJvw2nVp2nq5CawFN8ZAu55IqsR1Wafu8NnsEnZTmCc=">
   </div>
 </form>
+
+<iframe style="height:420px;width:100%;max-width:800px;margin:0px auto;margin-top:3rem;" src="https://upscri.be/611534?as_embed"
+    frameborder="0"></iframe>
