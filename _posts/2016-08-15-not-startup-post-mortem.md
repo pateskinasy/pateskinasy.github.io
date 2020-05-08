@@ -89,7 +89,7 @@ The assumption underpinning all these early tests were:
 3. that we could achieve cross professions-referrals (a landscaper refers a photographer; a photographer refers a caterer)
 4. most importantly: referrals from other businesses would provide enough value and incentive for those small businesses to spend time in our platform (after all, we were not bringing them potential client eyeballs directly — at least not at that stage)
 
-We’ve managed to achieve healthy engagement metrics with the platform and over 40% open rates with our newsletters that shared trending project stories that made it to the daily leaderboard and tips on how to simplify and power up businesses.
+We’ve managed to achieve healthy engagement metrics with the platform and about 60% open rates with our newsletters that shared trending project stories that made it to the daily leaderboard and tips on how to simplify and power up businesses.
 
 However, we did not succeed in making the referrals circulate. The interest groups were too non-homogeneous, and were not enabling collaboration. New features were needed.
 
