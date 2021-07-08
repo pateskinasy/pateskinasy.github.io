@@ -166,9 +166,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://www.medium.com/@celue/"
+#     - label: "Medium"
+#       icon: "fab fa-fw fa-medium"
+#       url: "https://www.medium.com/@celue/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pateskinasy/"
