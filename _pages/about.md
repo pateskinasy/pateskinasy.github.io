@@ -31,7 +31,7 @@ You can also find me on [Twitter](https://twitter.com/celue), [Linkedin](https:/
 
 The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, drop a note [here](/contact).
 
-I'm now busy with own projects. Most recently [focusfork.com](https://www.focusfork.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
+I'm now busy with own projects. Most recently [Focus Fork](https://www.focusfork.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
 Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href="https://www.experienceconomy.com/consulting" target="_blank">advisory services.</a>
 
