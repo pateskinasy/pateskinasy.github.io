@@ -33,6 +33,8 @@ The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwis
 
 I'm now busy with own projects. Most recently [Focus Fork](https://www.focusfork.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
+I write about software development at [Morse Wall](https://morsewall.com/).
+
 Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href="https://www.experienceconomy.com/consulting" target="_blank">advisory services.</a>
 
 If you’d like to support me or found any of what I make (and do) useful, you can show your appreciation and motivate me to make (and do) more. I accept Bitcoin: [`1CWtesfGK1Rtp2ginrRCLLbTbfo8bKPnto`](/assets/images/qrpat.gif) and <a href="https://www.experienceconomy.com/consulting#linkable"
