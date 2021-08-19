@@ -16,6 +16,7 @@ __   __  ___     _______  __   __  _______  ______    _______  __
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% include newsletter.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -42,7 +43,6 @@ __   __  ___     _______  __   __  _______  ______    _______  __
 
     {% include scripts.html %}
     {% include new-window-fix.html %}
-    {% include newsletter.html %}
 
     {% if page.tagby == true %}
     {% include tagby.html %}
