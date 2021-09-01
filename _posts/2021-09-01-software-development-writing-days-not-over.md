@@ -47,4 +47,4 @@ So, if you are curious about my software development writings and would like to 
 
 Leave a comment or come say hello on Twitter!
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">on not taking the shortest path... <a href="https://t.co/uUFdc325Lr">pic.twitter.com/uUFdc325Lr</a></p>&mdash; Pat Eskinasy 👩🏻‍💻🌳 (@celue) <a href="https://twitter.com/celue/status/824197949588697088?ref_src=twsrc%5Etfw">January 25, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Shipped something (<a href="https://t.co/7xTNuJqmcy">https://t.co/7xTNuJqmcy</a>) I should have shipped years ago. Thanks to an archetypical British summer. <a href="https://t.co/DIF5NTRKdE">pic.twitter.com/DIF5NTRKdE</a></p>&mdash; Pat Eskinasy 👩🏻‍💻🌳 (@celue) <a href="https://twitter.com/celue/status/1433013224627134467?ref_src=twsrc%5Etfw">September 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
