@@ -28,7 +28,7 @@ Like many software developers, I code, code a lot, and time and again do not shi
 
 ## On Morse Wall
 
-For many of the reasons above, I've given up often on collecting my many years' worth of technical writings in one place. Then, this summer and a rainy Sunday came along (actually, summer and rain got along very well this year 🙄 - laughs in British) and I've shipped Morse Wall ([morsewall.com](https://morsewall.com/)). A place made to be helpful for others creating software.
+For many of the reasons above, I've given up often on collecting my many years' worth of software development writings in one place. Then, this summer and a rainy Sunday came along (actually, summer and rain got along very well this year 🙄 - laughs in British) and I've shipped Morse Wall ([morsewall.com](https://morsewall.com/)). A place made to be helpful for others creating software.
 
 <p><img src="{{site.baseurl}}/assets/images/post_images/morse_wall_front_page.png" alt="" class="align-center" /></p>
 <figcaption>Morse Wall looks</figcaption>
