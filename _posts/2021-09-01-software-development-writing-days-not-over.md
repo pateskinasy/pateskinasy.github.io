@@ -37,7 +37,7 @@ One of the [projects](https://morsewall.com/projects/) I've written about was on
 
 ## KISS principle above all
 
-It goes without saying, but here it comes anyway: Redoing an insanely simple project 11 times and writing about it is fun. And indeed a great way of honing skills (given the app is ultra simple and there aren’t that many moving pieces), specially writing skills. That said, in real life, one should use the right tool for the right job. There is no need for state management (with Redux) there, nor the need to reuse UI components (with React) in that app. Vanilla JS ([covered in the first writing of the series](https://morsewall.com/random-quote-vanilla-javascript-using-various-front-end-stacks/)) offers the beauty of simplicity with only 3 lines of functional JS.
+It goes without saying, but here it comes anyway: Redoing an insanely simple project 11 times and writing about it is fun. And indeed a great way of honing skills (given the app is ultra simple and there aren’t that many moving pieces), specially writing skills. That said, in real life, one should use the right tool for the right job. There is no need for state management (with Redux) there, nor the need to reuse UI components (with React) in that app. Vanilla JS ([covered in the first write up of the series](https://morsewall.com/random-quote-vanilla-javascript-using-various-front-end-stacks/)) offers the beauty of simplicity with only 3 lines of functional JS.
 
 ## People seem to be liking it
 
