@@ -24,7 +24,7 @@ newsletter: true
 featured: false
 ---
 
-Like many software developers, I code, code a lot, and time and again do not ship. Reasons are the usual ones: I get tired of the project; realise I'll eventually not want to do marketing for it; work gets in the way; I lose trust that anyone will be interested in it; shiny object syndrome kicks in and I move to another project, etc.
+Like many software developers, I code, code a lot, and time and again, do not ship. Reasons are the usual ones: I get tired of the project; realise I'll eventually not want to do marketing for it; work gets in the way; I lose trust that anyone will be interested in it; shiny object syndrome kicks in and I move to another project, etc.
 
 ## On Morse Wall
 
