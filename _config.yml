@@ -113,7 +113,7 @@ analytics:
 author:
   name: "Pat Eskinasy"
   avatar: "https://ik.imagekit.io/214u6evjbiyb9/image1__1__HJ1gMcnXV.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Now: Own projects, Past: B2B deep tech. | Engineer | Economist | 🌱| ॐ"
+  bio: "Now: Own projects, Past: B2B deep tech. | Engineer | Economist | 🌳🌳🌳"
   location: " :gb:  :sweden:  :brazil: "
   email:
   links:
@@ -135,9 +135,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-#     - label: "Medium"
-#       icon: "fab fa-fw fa-medium"
-#       url: "https://www.medium.com/@celue/"
+    #     - label: "Medium"
+    #       icon: "fab fa-fw fa-medium"
+    #       url: "https://www.medium.com/@celue/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pateskinasy/"
@@ -166,9 +166,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-#     - label: "Medium"
-#       icon: "fab fa-fw fa-medium"
-#       url: "https://www.medium.com/@celue/"
+    #     - label: "Medium"
+    #       icon: "fab fa-fw fa-medium"
+    #       url: "https://www.medium.com/@celue/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pateskinasy/"
