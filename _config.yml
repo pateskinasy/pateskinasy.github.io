@@ -20,7 +20,7 @@ title: "Eskinasy Notes | Pat Eskinasy Writings"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Pat Eskinasy"
-description: "A few of my favourite things. Decentralized, Distributed and Federated systems | Open Source Software | Digital Privacy | Artificial Intelligence | Product Development | Software Development | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Decentralized Governance | Supply Chains | Ethical Design | Economics | Economic Empowerment | Plant-Based Lifestyle | Yoga | Woodlands | Trees | Jogging | Venture Capital | Capital Markets | Startups | Mandarin."
+description: "A few of my favourite things. Decentralized, Distributed and Federated systems | Open Source Software | Digital Privacy | Artificial Intelligence | Product Development | Software Development | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Decentralized Governance | Supply Chains | Ethical Design | Economics | Economic Empowerment | Plant-Based Lifestyle | Yoga | Woodlands | Trees | Jogging | Venture Capital | Capital Markets | Startups | Mandarin"
 url: https://www.eskinasy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: pateskinasy/pateskinasy.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
