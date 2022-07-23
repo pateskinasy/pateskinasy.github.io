@@ -74,7 +74,7 @@ What surprises me is to consistently see strong positive impact made by employee
 
 Do a quick check with internal comms/public affairs, I'm certain they are very much aware of how much more transparency -- and marketing -- is needed on how the company you work for tackles ESG challenges. Comms is also aware that employees have unanswered ESG related questions.
 
-You never know, you may soon get questions on how your company is dealing with Scope 3 emissions during your next all hands.
+One never knows. You may soon get questions on how your company is dealing with Scope 3 emissions during your next all hands.
 
 <p class="notice">
 <b>
