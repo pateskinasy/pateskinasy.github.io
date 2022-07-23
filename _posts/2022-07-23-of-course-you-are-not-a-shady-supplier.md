@@ -79,3 +79,5 @@ You never know, you may soon get questions on how your company is dealing with S
 <p class="notice">
 <b>
 If you've enjoyed this ESG/CSR write up and would like to make a writer very happy today, leave a comment or come say hello on Twitter! I might come back with more notes on this soon enough. </b></p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Of course you are not a shady supplier<br>And your prospective customers are certainly aware of your ethical credentials, right? If not, your employees certainly are. <a href="https://t.co/8jkHza1tmV">pic.twitter.com/8jkHza1tmV</a></p>&mdash; Pat Eskinasy 👩🏻‍💻🌳 (@celue) <a href="https://twitter.com/celue/status/1550935198552014848?ref_src=twsrc%5Etfw">July 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
