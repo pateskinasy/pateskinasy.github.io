@@ -39,9 +39,9 @@ How shady a business is, can often be difficult to judge.
 
 You may wonder what I mean by shady though. Business shadiness comes in a spectrum of forms. Here I am conflating:
 
-* businesses that did not fulfil multi-million-dollar purchase orders after the deposit was paid (and subsequently ceased trading)
-* businesses that manufactured PPE with no modern human slavery safeguards in place
-* businesses that followed no environment sustainability guidelines in their operations
+* Businesses that did not fulfil multi-million-dollar purchase orders after the deposit was paid (and subsequently ceased trading).
+* Businesses that manufactured PPE with no modern human slavery safeguards in place.
+* Businesses that followed no environment sustainability guidelines in their operations.
 
 Finding sellers that share your values may prove hard. Seller's "About" pages may be unhelpful. You may get on the phone with a seller's representative and they may not be able to tell you if the company actively manages ethical and sustainability standards in their supply chain, or whether they have zero tolerance for modern slavery and human trafficking.
 
@@ -74,7 +74,7 @@ What surprises me is to consistently see strong positive impact made by employee
 
 Do a quick check with internal comms/public affairs, I'm certain they are very much aware of how much more transparency -- and marketing -- is needed on how the company you work for tackles ESG challenges. Comms is also aware that employees have unanswered ESG related questions.
 
-One never knows. You may soon get questions on how your company is dealing with Scope 3 emissions during your next all hands.
+One never knows. You may soon get questions on how your company is dealing with Scope 3 emissions during your next all-hands meeting.
 
 <p class="notice">
 <b>
