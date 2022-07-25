@@ -1,6 +1,6 @@
 ---
 title: Of course you are not a shady supplier
-excerpt: And your prospective customers are aware of your ethical credentials, right? How aware are your employees?
+excerpt: Your prospective customers are aware of your ethical credentials, right? And how aware are your employees?
 header:
   #overlay_image: /assets/images/writinghabit.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
