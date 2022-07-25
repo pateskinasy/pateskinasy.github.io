@@ -1,6 +1,6 @@
 ---
 title: Of course you are not a shady supplier
-excerpt: And your prospective customers are certainly aware of your ethical credentials, right? If not, your employees certainly are.
+excerpt: And your prospective customers are aware of your ethical credentials, right? How aware are your employees?
 header:
   #overlay_image: /assets/images/writinghabit.jpg
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -58,7 +58,7 @@ ESG sustainability is every company's passport for the future (provided they hav
 
 <p class="notice">
 <b><i>
-According to a Mckinsey's recent study<sup>1</sup>, over 20% of large buyers already use sustainability measures as primary criteria in sourcing decisions or supplier reviews, whereas over 60% are working on their sustainability strategy for procurement.</i></b></p>
+According to a recent Mckinsey's study<sup>1</sup>, over 20% of large buyers already use sustainability measures as primary criteria in sourcing decisions or supplier reviews, whereas over 60% are working on their sustainability strategy for procurement.</i></b></p>
 
 ## Your investors are looking at you
 
