@@ -44,7 +44,7 @@ Past: Senior digital leader with tons of global technology and business experien
 
 I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an **Engineer** and an **Economist**, I predictably (yes, I know...) became fascinated by decentralization and federation (i.e., I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
 
-Otherwise, you'll find me with ∞ tabs open in my browser, practicing yoga, jogging or enjoying the outdoors.
+Otherwise, you'll find me in front of a dark code editor window with ∞ tabs open in my browser, practicing yoga, jogging or enjoying the outdoors.
 
 <!--
 <lastBuildDate>
