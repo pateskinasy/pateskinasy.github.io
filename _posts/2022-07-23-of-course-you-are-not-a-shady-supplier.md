@@ -58,7 +58,7 @@ ESG sustainability is every company's passport for the future (provided they hav
 
 <p class="notice">
 <b><i>
-According to a recent Mckinsey's study<sup>1</sup>, over 20% of large buyers already use sustainability measures as primary criteria in sourcing decisions or supplier reviews, whereas over 60% are working on their sustainability strategy for procurement.</i></b></p>
+According to a recent McKinsey's study<sup>1</sup>, over 20% of large buyers already use sustainability measures as primary criteria in sourcing decisions or supplier reviews, whereas over 60% are working on their sustainability strategy for procurement.</i></b></p>
 
 ## Your investors are looking at you
 
