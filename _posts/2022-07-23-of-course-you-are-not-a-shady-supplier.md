@@ -52,7 +52,7 @@ Diversifying one's supplier base takes concerted effort.
 <p><img src="{{site.baseurl}}/assets/images/post_images/Diversify_your_supplier_base.png" alt="" class="align-center" /></p>
 <figcaption>Challenges faced when diversifying your supplier base</figcaption>
 
-That said, a substantial part of the average company’s environment, social, and governance footprint lies with suppliers. As a result, the procurement is baking more and more CSR (corporate social responsibility) / ESG (Environmental, Social, and Governance) inquiries into their RFIs/RFPs, and will increasingly do so in the years ahead.
+That said, a substantial part of the average company’s environment, social, and governance footprint lies with suppliers. As a result, the procurement function is baking more and more CSR (corporate social responsibility) / ESG (Environmental, Social, and Governance) inquiries into their RFIs/RFPs, and will increasingly do so in the years ahead.
 
 ESG sustainability is every company's passport for the future (provided they have adequate product-market fit, but that goes without saying).
 
