@@ -68,7 +68,7 @@ That means transparency is key to ensuring that insights and analytics are able 
 
 ## Your employees are also looking at you
 
-Higher social capital can undoubtedly boost employee motivation and help attract talent through greater social credibility. That shouldn't surprise anyone. This is 2022 after all. 
+Higher social capital can undoubtedly boost employee motivation and help attract talent through greater social credibility. But that shouldn't surprise anyone. This is 2022 after all. 
 
 What surprises me is to consistently see strong positive impact made by employee volunteer activities/resource groups. That means employee satisfaction being helped by volunteer groups, employee-self-organized volunteer groups. Impressive right?
 
