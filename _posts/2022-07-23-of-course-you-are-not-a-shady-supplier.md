@@ -64,13 +64,13 @@ According to a recent McKinsey's study<sup>1</sup>, over 20% of large buyers alr
 
 Investing within an ESG framework is now the fastest growing segment of the asset management industry. That said, ESG can sadly be used as a very loosely defined term for "greenwashing".
 
-That means transparency is key to ensuring that insights and analytics are able to be interpreted appropriately. Some could argue that climate is the single greatest issue for society, and this should receive the greatest consideration when assessing a company. Others may consider diversity and inclusion or a living wage policy to be of equal importance to any net zero target. Independently, there must be transparency to mitigate market confusion and enhance understanding among market participants.
+This means transparency is key to ensuring that insights and analytics can be interpreted appropriately. Some could argue that climate is the single greatest issue for society, and this should receive the greatest consideration when assessing a company. Others may consider diversity and inclusion or a living wage policy to be of equal importance to any net zero target. Independently, there must be transparency to mitigate market confusion and enhance understanding among market participants.
 
 ## Your employees are also looking at you
 
-Higher social capital can undoubtedly boost employee motivation and help attract talent through greater social credibility. But that shouldn't surprise anyone. This is 2022 after all. 
+Higher social capital can undoubtedly boost employee motivation and help attract talent through greater social credibility. This, however, shouldn't surprise anyone. This is 2022 after all.
 
-What surprises me is to consistently see strong positive impact made by employee volunteer activities/resource groups. That means employee satisfaction being helped by volunteer groups, employee-self-organized volunteer groups. Impressive right?
+What surprises me, is to consistently see strong positive impact made by employee volunteer activities/resource groups. This means employee satisfaction is being helped by volunteer groups, employee-self-organized volunteer groups. Impressive right?
 
 Do a quick check with internal comms/public affairs, I'm certain they are very much aware of how much more transparency -- and marketing -- is needed on how the company you work for tackles ESG challenges. Comms is also aware that employees have unanswered ESG related questions.
 
