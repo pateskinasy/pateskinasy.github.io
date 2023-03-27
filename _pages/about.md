@@ -24,14 +24,14 @@ I'm Pat.
 On this site, you’ll find my writings on some of my favourite things:
 
 <p class="notice">
-  <strong>Decentralized, Distributed and Federated systems | Open Source Software | Digital Privacy | Artificial Intelligence | Product Development | Software Development | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Decentralized Governance | Supply Chains | Ethical Design | Sustainability | ESG | CSR | Economics | Economic Empowerment | Plant-Based Lifestyle | Yoga | Woodlands | Trees | Jogging | Venture Capital | Capital Markets | Startups | Mandarin</strong>
+  <strong>Decentralized, Distributed and Federated systems | Open Source Software | Digital Privacy | Artificial Intelligence | Product Development | Software Development | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Decentralized Governance | Supply Chains | Ethical Design | Sustainability | ESG | CSR | Healthcare | Economics | Economic Empowerment | Yoga | Woodlands | Trees | Jogging | Venture Capital | Capital Markets | Startups | Mandarin</strong>
 </p>
 
 You can also find me on [Twitter](https://twitter.com/celue), [Linkedin](https://linkedin.com/in/pateskinasy) and [Github](https://github.com/pateskinasy). You should join my (infrequent) email [Newsletter](https://upscri.be/611534) for more content not published here.
 
 The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, drop a note [here](/contact).
 
-I'm now busy with own projects. Most recently [Focus Fork](https://www.focusfork.com/), [Git Street](https://www.gitstreet.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
+I'm now busy with own projects. Most recently [Restimuli](https://www.restimuli.com/), [Focus Fork](https://www.focusfork.com/), [Git Street](https://www.gitstreet.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
 I write about software development at [Morse Wall](https://morsewall.com/).
 
@@ -40,7 +40,7 @@ Through [ExperiencEconomy](https://www.experienceconomy.com), I provide <a href=
 If you’d like to support me or found any of what I make (and do) useful, you can show your appreciation and motivate me to make (and do) more. I accept Bitcoin: [`1CWtesfGK1Rtp2ginrRCLLbTbfo8bKPnto`](/assets/images/qrpat.gif) and <a href="https://www.experienceconomy.com/consulting#linkable"
     title="PayPal" target="_blank"> among others, coffees ☕.</a>
 
-Past: Senior digital leader with tons of global technology and business experience at both multinational organizations and startups across 4 continents (markets including **Taiwan, South Africa, Brazil, Finland, Sweden and United Kingdom**).
+Past: Senior digital leader with tons of global technology and business experience at both multinational organizations and startups. Working and living experience across 4 continents (markets including **Taiwan, South Africa, Brazil, Finland, Sweden and United Kingdom**).
 
 I am curious about everything, dig making really complex stuff simple and am a massive product geek. Being an **Engineer** and an **Economist**, I predictably (yes, I know...) became fascinated by decentralization and federation (i.e., I'll probably read - or skim - your white paper if I come across it). I'm specially interested in initiatives that help boost economic empowerment.
 
