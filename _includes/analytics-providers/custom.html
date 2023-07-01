@@ -1,40 +1,46 @@
 <!-- start custom analytics snippet -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script>
-// Set to the same value as the web property used on the site
-var gaProperty = 'UA-121086418-1';
+  // Set to the same value as the web property used on the site
+  var gaProperty = "UA-121086418-1";
 
-// Disable tracking if the opt-out cookie exists.
-var disableStr = 'ga-disable-' + gaProperty;
-if (document.cookie.indexOf(disableStr + '=true') > -1) {
-  window[disableStr] = true;
-}
+  // Disable tracking if the opt-out cookie exists.
+  var disableStr = "ga-disable-" + gaProperty;
+  if (document.cookie.indexOf(disableStr + "=true") > -1) {
+    window[disableStr] = true;
+  }
 </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121086418-1">
-</script>
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-3DJL735HV0"
+></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
 
-  gtag('config', 'UA-121086418-1');
+  gtag("config", "G-3DJL735HV0");
 </script>
 
 <script>
   /**
-  * Function that registers a click on an outbound link in Analytics.
-  * This function takes a valid URL string as an argument, and uses that URL string
-  * as the event label. Setting the transport method to 'beacon' lets the hit be sent
-  * using 'navigator.sendBeacon' in browser that support it.
-  */
-  var getOutboundLink = function(url) {
-    gtag('event', 'click', {
-      'event_category': 'outbound',
-      'event_label': url,
-      'transport_type': 'beacon',
-      'event_callback': function(){document.location = url;}
+   * Function that registers a click on an outbound link in Analytics.
+   * This function takes a valid URL string as an argument, and uses that URL string
+   * as the event label. Setting the transport method to 'beacon' lets the hit be sent
+   * using 'navigator.sendBeacon' in browser that support it.
+   */
+  var getOutboundLink = function (url) {
+    gtag("event", "click", {
+      event_category: "outbound",
+      event_label: url,
+      transport_type: "beacon",
+      event_callback: function () {
+        document.location = url;
+      },
     });
-  }
+  };
 </script>
 
 <!-- end custom analytics snippet  -->

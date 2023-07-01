@@ -1,26 +1,31 @@
 <html>
-<head>
-  <meta name="robots" content="noindex, nofollow">
-<script>
-// Set to the same value as the web property used on the site
-var gaProperty = 'UA-121086418-1';
+  <head>
+    <meta name="robots" content="noindex, nofollow" />
+    <script>
+      // Set to the same value as the web property used on the site
+      var gaProperty = "G-3DJL735HV0";
 
-// Disable tracking if the opt-out cookie exists.
-var disableStr = 'ga-disable-' + gaProperty;
-if (document.cookie.indexOf(disableStr + '=true') > -1) {
-    window[disableStr] = true;
-}
+      // Disable tracking if the opt-out cookie exists.
+      var disableStr = "ga-disable-" + gaProperty;
+      if (document.cookie.indexOf(disableStr + "=true") > -1) {
+        window[disableStr] = true;
+      }
 
-// Opt-out function
-function gaOptout() {
-  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-  window[disableStr] = true;
-}
-</script>
-</head>
-<body>
-Don't do anything here unless instructed to by a dev (aka Pat).
-<br>
-<a onclick="alert('Google Analytics Tracking is now deactivated');" href="javascript:gaOptout()">Click here to opt-out of Google Analytics</a>
-</body>
+      // Opt-out function
+      function gaOptout() {
+        document.cookie =
+          disableStr + "=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/";
+        window[disableStr] = true;
+      }
+    </script>
+  </head>
+  <body>
+    Don't do anything here unless instructed to by a dev (aka Pat).
+    <br />
+    <a
+      onclick="alert('Google Analytics Tracking is now deactivated');"
+      href="javascript:gaOptout()"
+      >Click here to opt-out of Google Analytics</a
+    >
+  </body>
 </html>

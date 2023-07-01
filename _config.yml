@@ -106,7 +106,7 @@ social:
 analytics:
   provider: custom # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: UA-121086418-1
+    tracking_id: G-3DJL735HV0
     anonymize_ip: # true, false (default)
 
 # Site Author
