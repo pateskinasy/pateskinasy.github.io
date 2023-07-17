@@ -1,6 +1,6 @@
 Jekyll Powered site
 
-* **Hi, should you fork this, no matter what you do, please remove my Google Analytics tracking IDs from your fork (leaving it in would mess my own analytics otherwise). Thanks!**
+# **Hi, should you fork this, no matter what you do, please remove my Google Analytics tracking IDs from your fork (leaving it in would mess my own analytics otherwise). Thanks!**
 
 Stack is:
 - Jekyll
