@@ -19,4 +19,4 @@ Stack is:
 
 <a href="https://www.buymeacoffee.com/experienceconomy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" width=150rem ></a>
 
-Please remember to remove my Google Analytics tracking IDs from your fork.
+Please remember to remove my Google Analytics tracking IDs from your fork/clone.
