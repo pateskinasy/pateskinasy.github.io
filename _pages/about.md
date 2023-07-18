@@ -24,6 +24,7 @@ I'm Pat.
 On this site, you’ll find my writings on some of my favourite things:
 
 <p class="notice">
+  // Please remove my Analytics ID before taking your site to production if you are forking/cloning this site (otherwise you will mess my own analytics). PLEASE
   <strong>Decentralized, Distributed and Federated systems | Open Source Software | Digital Privacy | Artificial Intelligence | Product Development | Software Development | Cryptocurrency | Data Science | Product Management | InfoSec | Leadership | Decentralized Governance | Supply Chains | Ethical Design | Sustainability | ESG | CSR | Healthcare | Economics | Economic Empowerment | Yoga | Woodlands | Trees | Jogging | Venture Capital | Capital Markets | Startups | Mandarin</strong>
 </p>
 
