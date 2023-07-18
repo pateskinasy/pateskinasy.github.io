@@ -15,6 +15,7 @@ share: false
 classes: wide
 author_profile: true
 newsletter: true
+//Did you remember to remove my google analytics tracking code?
 ---
 
 Hi, Hej, Olá,
