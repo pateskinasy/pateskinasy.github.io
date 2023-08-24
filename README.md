@@ -19,4 +19,4 @@ Stack is:
 
 <a href="https://www.buymeacoffee.com/experienceconomy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" width=150rem ></a>
 
-Please remove my Analytics ID (inside includes->analytics-providers) before taking your site to production if you are forking/cloning this site (otherwise you will mess my own analytics). PLEASE
+Please remove my Analytics ID (inside includes->analytics-providers) before taking your site to production if you are forking/cloning this site (otherwise you will mess my own analytics). Thanks!
