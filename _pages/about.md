@@ -32,7 +32,7 @@ You can also find me on [Twitter](https://twitter.com/celue), [Linkedin](https:/
 
 The best way to contact me is [via Twitter](https://twitter.com/celue). Otherwise, drop a note [here](/contact).
 
-I'm now busy with own projects. Most recently [Restimuli](https://www.restimuli.com/), [Focus Fork](https://www.focusfork.com/), [Git Street](https://www.gitstreet.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
+I'm now busy with own projects. Most recently [Restimuli](https://www.restimuli.com/), [GoodByEmail](https://www.goodbyemail.com/), [Focus Fork](https://www.focusfork.com/), [Git Street](https://www.gitstreet.com/), [hen.ai](https://www.hen.ai) and [creatorstory](https://www.creatorstory.com).
 
 I write about software development at [Morse Wall](https://morsewall.com/).
 
