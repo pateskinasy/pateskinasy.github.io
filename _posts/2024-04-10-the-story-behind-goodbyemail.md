@@ -7,7 +7,7 @@ header:
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
   overlay_filter: 0.25
-  teaser: /assets/images/post_images/restimuli-in-action-min.png
+  teaser: /assets/images/post_images/goodbyemail_screenshot.png
 categories:
   - GoodByEmail
 tags:
