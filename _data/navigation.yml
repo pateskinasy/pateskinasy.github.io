@@ -8,7 +8,7 @@ main:
     url: /posts/
   - title: "CONTACT"
     url: /contact/
-  - title: "Join Newsletter"
+  - title: "JOIN NEWSLETTER"
     url: /newsletter/
     # url: https://upscri.be/611534
   # - title: "Sample Posts"

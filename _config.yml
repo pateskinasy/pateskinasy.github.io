@@ -175,7 +175,8 @@ footer:
       url: "https://www.linkedin.com/in/pateskinasy/"
     - label: "Newsletter"
       icon: "far fa-newspaper"
-      url: "https://upscri.be/611534/"
+      url: "/newsletter/"
+      # url: "https://upscri.be/611534/"
 
 # Reading Files
 include:
