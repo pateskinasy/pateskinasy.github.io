@@ -16,7 +16,7 @@ Please note: I get a lot of email and may be slow to respond. Sometimes, unfortu
 
 [My PGP public key](/PGPpublickey.txt).
 
-You should join my (infrequent) email [Newsletter](https://upscri.be/611534) for more content not published here.
+You should join my (infrequent) email [Newsletter](/newsletter) for more content not published here.
 
 ## Contact Me
 
@@ -51,5 +51,5 @@ You should join my (infrequent) email [Newsletter](https://upscri.be/611534) for
   </div>
 </form>
 
-<iframe style="height:420px;width:100%;max-width:800px;margin:0px auto;margin-top:3rem;" src="https://upscri.be/611534?as_embed"
-    frameborder="0"></iframe>
+<!-- <iframe style="height:420px;width:100%;max-width:800px;margin:0px auto;margin-top:3rem;" src="https://upscri.be/611534?as_embed"
+    frameborder="0"></iframe> -->

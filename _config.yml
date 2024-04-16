@@ -143,6 +143,7 @@ author:
       url: "https://www.linkedin.com/in/pateskinasy/"
     - label: "Newsletter"
       icon: "far fa-newspaper"
+      url: "/newsletter"
       # url: "https://upscri.be/611534/"
 
 # Site Footer
